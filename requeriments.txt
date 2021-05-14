@@ -1,0 +1,31 @@
+!pip install -q jupyter-dash==0.3.0rc1 dash-bootstrap-components transformers
+
+import time
+
+import dash
+import dash_html_components as html
+import dash_core_components as dcc
+import dash_bootstrap_components as dbc
+from dash.dependencies import Input, Output, State
+from jupyter_dash import JupyterDash
+from transformers import AutoModelWithLMHead, AutoTokenizer
+import torch
+import numpy as np
+import pandas as pd
+#import dataprep.eda as dp
+import matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as ss
+import plotly.express as px
+import plotly.graph_objects as go
+from ipywidgets import interact, Layout
+import ipywidgets as widgets
+import numpy as np
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import plotly.express as px
+from jupyter_dash import JupyterDash
+import plotly.express as px
+
