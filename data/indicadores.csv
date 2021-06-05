@@ -1,0 +1,2311 @@
+num_mes,anio,mes,departamento,vacantes
+1,2015,Ene,Amazonas,20
+1,2015,Ene,Antioquia,4078
+1,2015,Ene,Arauca,50
+1,2015,Ene,Atlántico,1313
+1,2015,Ene,Bogotá D.C.,33835
+1,2015,Ene,Bolívar,808
+1,2015,Ene,Boyacá,308
+1,2015,Ene,Caldas,354
+1,2015,Ene,Caquetá,61
+1,2015,Ene,Casanare,224
+1,2015,Ene,Cauca,304
+1,2015,Ene,Cesar,249
+1,2015,Ene,Chocó,37
+1,2015,Ene,Córdoba,203
+1,2015,Ene,Cundinamarca,1223
+1,2015,Ene,Guainía,2
+1,2015,Ene,Guaviare,10
+1,2015,Ene,Huila,370
+1,2015,Ene,La Guajira,132
+1,2015,Ene,Magdalena,252
+1,2015,Ene,Meta,1054
+1,2015,Ene,Nariño,173
+1,2015,Ene,Norte de Santander,265
+1,2015,Ene,Putumayo,177
+1,2015,Ene,Quindío,232
+1,2015,Ene,Risaralda,589
+1,2015,Ene,"Archipiélago de San Andrés, Providencia y Santa Catalina",14
+1,2015,Ene,Santander,1326
+1,2015,Ene,Sucre,88
+1,2015,Ene,Tolima,594
+1,2015,Ene,Valle del Cauca,2947
+1,2015,Ene,Vaupés,2
+1,2015,Ene,Vichada,1
+2,2015,Feb,Amazonas,22
+2,2015,Feb,Antioquia,3899
+2,2015,Feb,Arauca,38
+2,2015,Feb,Atlántico,1351
+2,2015,Feb,Bogotá D.C.,30868
+2,2015,Feb,Bolívar,756
+2,2015,Feb,Boyacá,271
+2,2015,Feb,Caldas,309
+2,2015,Feb,Caquetá,58
+2,2015,Feb,Casanare,262
+2,2015,Feb,Cauca,272
+2,2015,Feb,Cesar,258
+2,2015,Feb,Chocó,42
+2,2015,Feb,Córdoba,216
+2,2015,Feb,Cundinamarca,1205
+2,2015,Feb,Guainía,5
+2,2015,Feb,Guaviare,3
+2,2015,Feb,Huila,399
+2,2015,Feb,La Guajira,165
+2,2015,Feb,Magdalena,182
+2,2015,Feb,Meta,998
+2,2015,Feb,Nariño,188
+2,2015,Feb,Norte de Santander,423
+2,2015,Feb,Putumayo,33
+2,2015,Feb,Quindío,175
+2,2015,Feb,Risaralda,476
+2,2015,Feb,"Archipiélago de San Andrés, Providencia y Santa Catalina",26
+2,2015,Feb,Santander,1301
+2,2015,Feb,Sucre,77
+2,2015,Feb,Tolima,622
+2,2015,Feb,Valle del Cauca,2960
+2,2015,Feb,Vaupés,1
+2,2015,Feb,Vichada,3
+3,2015,Mar,Amazonas,15
+3,2015,Mar,Antioquia,4056
+3,2015,Mar,Arauca,26
+3,2015,Mar,Atlántico,1432
+3,2015,Mar,Bogotá D.C.,32472
+3,2015,Mar,Bolívar,823
+3,2015,Mar,Boyacá,310
+3,2015,Mar,Caldas,388
+3,2015,Mar,Caquetá,67
+3,2015,Mar,Casanare,176
+3,2015,Mar,Cauca,257
+3,2015,Mar,Cesar,246
+3,2015,Mar,Chocó,37
+3,2015,Mar,Córdoba,172
+3,2015,Mar,Cundinamarca,1301
+3,2015,Mar,Guainía,2
+3,2015,Mar,Guaviare,6
+3,2015,Mar,Huila,348
+3,2015,Mar,La Guajira,161
+3,2015,Mar,Magdalena,169
+3,2015,Mar,Meta,792
+3,2015,Mar,Nariño,233
+3,2015,Mar,Norte de Santander,258
+3,2015,Mar,Putumayo,75
+3,2015,Mar,Quindío,247
+3,2015,Mar,Risaralda,614
+3,2015,Mar,"Archipiélago de San Andrés, Providencia y Santa Catalina",19
+3,2015,Mar,Santander,1187
+3,2015,Mar,Sucre,108
+3,2015,Mar,Tolima,532
+3,2015,Mar,Valle del Cauca,3285
+3,2015,Mar,Vaupés,0
+3,2015,Mar,Vichada,0
+4,2015,Abr,Amazonas,27
+4,2015,Abr,Antioquia,4754
+4,2015,Abr,Arauca,92
+4,2015,Abr,Atlántico,1729
+4,2015,Abr,Bogotá D.C.,32708
+4,2015,Abr,Bolívar,904
+4,2015,Abr,Boyacá,572
+4,2015,Abr,Caldas,525
+4,2015,Abr,Caquetá,118
+4,2015,Abr,Casanare,239
+4,2015,Abr,Cauca,265
+4,2015,Abr,Cesar,334
+4,2015,Abr,Chocó,57
+4,2015,Abr,Córdoba,285
+4,2015,Abr,Cundinamarca,1712
+4,2015,Abr,Guainía,25
+4,2015,Abr,Guaviare,13
+4,2015,Abr,Huila,555
+4,2015,Abr,La Guajira,257
+4,2015,Abr,Magdalena,277
+4,2015,Abr,Meta,1237
+4,2015,Abr,Nariño,358
+4,2015,Abr,Norte de Santander,510
+4,2015,Abr,Putumayo,88
+4,2015,Abr,Quindío,308
+4,2015,Abr,Risaralda,846
+4,2015,Abr,"Archipiélago de San Andrés, Providencia y Santa Catalina",34
+4,2015,Abr,Santander,1422
+4,2015,Abr,Sucre,108
+4,2015,Abr,Tolima,749
+4,2015,Abr,Valle del Cauca,3756
+4,2015,Abr,Vaupés,3
+4,2015,Abr,Vichada,10
+5,2015,May,Amazonas,38
+5,2015,May,Antioquia,4925
+5,2015,May,Arauca,62
+5,2015,May,Atlántico,1647
+5,2015,May,Bogotá D.C.,30317
+5,2015,May,Bolívar,888
+5,2015,May,Boyacá,583
+5,2015,May,Caldas,495
+5,2015,May,Caquetá,100
+5,2015,May,Casanare,255
+5,2015,May,Cauca,276
+5,2015,May,Cesar,306
+5,2015,May,Chocó,52
+5,2015,May,Córdoba,225
+5,2015,May,Cundinamarca,1756
+5,2015,May,Guainía,4
+5,2015,May,Guaviare,16
+5,2015,May,Huila,568
+5,2015,May,La Guajira,234
+5,2015,May,Magdalena,231
+5,2015,May,Meta,1118
+5,2015,May,Nariño,446
+5,2015,May,Norte de Santander,467
+5,2015,May,Putumayo,68
+5,2015,May,Quindío,314
+5,2015,May,Risaralda,755
+5,2015,May,"Archipiélago de San Andrés, Providencia y Santa Catalina",37
+5,2015,May,Santander,1453
+5,2015,May,Sucre,96
+5,2015,May,Tolima,722
+5,2015,May,Valle del Cauca,3469
+5,2015,May,Vaupés,2
+5,2015,May,Vichada,9
+6,2015,Jun,Amazonas,60
+6,2015,Jun,Antioquia,4784
+6,2015,Jun,Arauca,46
+6,2015,Jun,Atlántico,1707
+6,2015,Jun,Bogotá D.C.,31244
+6,2015,Jun,Bolívar,990
+6,2015,Jun,Boyacá,605
+6,2015,Jun,Caldas,528
+6,2015,Jun,Caquetá,94
+6,2015,Jun,Casanare,268
+6,2015,Jun,Cauca,324
+6,2015,Jun,Cesar,296
+6,2015,Jun,Chocó,62
+6,2015,Jun,Córdoba,223
+6,2015,Jun,Cundinamarca,1862
+6,2015,Jun,Guainía,16
+6,2015,Jun,Guaviare,19
+6,2015,Jun,Huila,549
+6,2015,Jun,La Guajira,186
+6,2015,Jun,Magdalena,280
+6,2015,Jun,Meta,1302
+6,2015,Jun,Nariño,346
+6,2015,Jun,Norte de Santander,475
+6,2015,Jun,Putumayo,72
+6,2015,Jun,Quindío,335
+6,2015,Jun,Risaralda,774
+6,2015,Jun,"Archipiélago de San Andrés, Providencia y Santa Catalina",87
+6,2015,Jun,Santander,1584
+6,2015,Jun,Sucre,94
+6,2015,Jun,Tolima,702
+6,2015,Jun,Valle del Cauca,3861
+6,2015,Jun,Vaupés,5
+6,2015,Jun,Vichada,9
+7,2015,Jul,Amazonas,48
+7,2015,Jul,Antioquia,5957
+7,2015,Jul,Arauca,82
+7,2015,Jul,Atlántico,1799
+7,2015,Jul,Bogotá D.C.,36528
+7,2015,Jul,Bolívar,1136
+7,2015,Jul,Boyacá,594
+7,2015,Jul,Caldas,601
+7,2015,Jul,Caquetá,133
+7,2015,Jul,Casanare,424
+7,2015,Jul,Cauca,388
+7,2015,Jul,Cesar,371
+7,2015,Jul,Chocó,69
+7,2015,Jul,Córdoba,289
+7,2015,Jul,Cundinamarca,2571
+7,2015,Jul,Guainía,6
+7,2015,Jul,Guaviare,27
+7,2015,Jul,Huila,654
+7,2015,Jul,La Guajira,150
+7,2015,Jul,Magdalena,436
+7,2015,Jul,Meta,1474
+7,2015,Jul,Nariño,476
+7,2015,Jul,Norte de Santander,510
+7,2015,Jul,Putumayo,74
+7,2015,Jul,Quindío,376
+7,2015,Jul,Risaralda,1010
+7,2015,Jul,"Archipiélago de San Andrés, Providencia y Santa Catalina",49
+7,2015,Jul,Santander,1872
+7,2015,Jul,Sucre,122
+7,2015,Jul,Tolima,816
+7,2015,Jul,Valle del Cauca,4260
+7,2015,Jul,Vaupés,5
+7,2015,Jul,Vichada,3
+8,2015,Ago,Amazonas,38
+8,2015,Ago,Antioquia,5574
+8,2015,Ago,Arauca,103
+8,2015,Ago,Atlántico,1726
+8,2015,Ago,Bogotá D.C.,34689
+8,2015,Ago,Bolívar,1026
+8,2015,Ago,Boyacá,614
+8,2015,Ago,Caldas,473
+8,2015,Ago,Caquetá,99
+8,2015,Ago,Casanare,337
+8,2015,Ago,Cauca,211
+8,2015,Ago,Cesar,222
+8,2015,Ago,Chocó,38
+8,2015,Ago,Córdoba,251
+8,2015,Ago,Cundinamarca,2504
+8,2015,Ago,Guainía,11
+8,2015,Ago,Guaviare,16
+8,2015,Ago,Huila,459
+8,2015,Ago,La Guajira,154
+8,2015,Ago,Magdalena,332
+8,2015,Ago,Meta,1421
+8,2015,Ago,Nariño,315
+8,2015,Ago,Norte de Santander,653
+8,2015,Ago,Putumayo,88
+8,2015,Ago,Quindío,252
+8,2015,Ago,Risaralda,936
+8,2015,Ago,"Archipiélago de San Andrés, Providencia y Santa Catalina",48
+8,2015,Ago,Santander,1490
+8,2015,Ago,Sucre,146
+8,2015,Ago,Tolima,624
+8,2015,Ago,Valle del Cauca,3740
+8,2015,Ago,Vaupés,4
+8,2015,Ago,Vichada,1
+9,2015,Sep,Amazonas,23
+9,2015,Sep,Antioquia,6470
+9,2015,Sep,Arauca,185
+9,2015,Sep,Atlántico,1914
+9,2015,Sep,Bogotá D.C.,37778
+9,2015,Sep,Bolívar,1223
+9,2015,Sep,Boyacá,745
+9,2015,Sep,Caldas,705
+9,2015,Sep,Caquetá,117
+9,2015,Sep,Casanare,449
+9,2015,Sep,Cauca,336
+9,2015,Sep,Cesar,352
+9,2015,Sep,Chocó,61
+9,2015,Sep,Córdoba,352
+9,2015,Sep,Cundinamarca,3119
+9,2015,Sep,Guainía,19
+9,2015,Sep,Guaviare,18
+9,2015,Sep,Huila,557
+9,2015,Sep,La Guajira,181
+9,2015,Sep,Magdalena,340
+9,2015,Sep,Meta,1555
+9,2015,Sep,Nariño,441
+9,2015,Sep,Norte de Santander,799
+9,2015,Sep,Putumayo,122
+9,2015,Sep,Quindío,279
+9,2015,Sep,Risaralda,1143
+9,2015,Sep,"Archipiélago de San Andrés, Providencia y Santa Catalina",49
+9,2015,Sep,Santander,1867
+9,2015,Sep,Sucre,119
+9,2015,Sep,Tolima,770
+9,2015,Sep,Valle del Cauca,4228
+9,2015,Sep,Vaupés,0
+9,2015,Sep,Vichada,9
+10,2015,Oct,Amazonas,55
+10,2015,Oct,Antioquia,16484
+10,2015,Oct,Arauca,132
+10,2015,Oct,Atlántico,4856
+10,2015,Oct,Bogotá D.C.,75576
+10,2015,Oct,Bolívar,2464
+10,2015,Oct,Boyacá,1273
+10,2015,Oct,Caldas,1226
+10,2015,Oct,Caquetá,203
+10,2015,Oct,Casanare,658
+10,2015,Oct,Cauca,442
+10,2015,Oct,Cesar,621
+10,2015,Oct,Chocó,100
+10,2015,Oct,Córdoba,597
+10,2015,Oct,Cundinamarca,6119
+10,2015,Oct,Guainía,6
+10,2015,Oct,Guaviare,19
+10,2015,Oct,Huila,1049
+10,2015,Oct,La Guajira,266
+10,2015,Oct,Magdalena,716
+10,2015,Oct,Meta,2194
+10,2015,Oct,Nariño,692
+10,2015,Oct,Norte de Santander,954
+10,2015,Oct,Putumayo,124
+10,2015,Oct,Quindío,631
+10,2015,Oct,Risaralda,2108
+10,2015,Oct,"Archipiélago de San Andrés, Providencia y Santa Catalina",111
+10,2015,Oct,Santander,4577
+10,2015,Oct,Sucre,272
+10,2015,Oct,Tolima,1287
+10,2015,Oct,Valle del Cauca,10037
+10,2015,Oct,Vaupés,0
+10,2015,Oct,Vichada,7
+11,2015,Nov,Amazonas,41
+11,2015,Nov,Antioquia,15405
+11,2015,Nov,Arauca,129
+11,2015,Nov,Atlántico,4113
+11,2015,Nov,Bogotá D.C.,72552
+11,2015,Nov,Bolívar,1962
+11,2015,Nov,Boyacá,997
+11,2015,Nov,Caldas,1107
+11,2015,Nov,Caquetá,160
+11,2015,Nov,Casanare,593
+11,2015,Nov,Cauca,402
+11,2015,Nov,Cesar,481
+11,2015,Nov,Chocó,145
+11,2015,Nov,Córdoba,514
+11,2015,Nov,Cundinamarca,5847
+11,2015,Nov,Guainía,12
+11,2015,Nov,Guaviare,15
+11,2015,Nov,Huila,1029
+11,2015,Nov,La Guajira,325
+11,2015,Nov,Magdalena,755
+11,2015,Nov,Meta,1952
+11,2015,Nov,Nariño,817
+11,2015,Nov,Norte de Santander,879
+11,2015,Nov,Putumayo,202
+11,2015,Nov,Quindío,548
+11,2015,Nov,Risaralda,1935
+11,2015,Nov,"Archipiélago de San Andrés, Providencia y Santa Catalina",86
+11,2015,Nov,Santander,4426
+11,2015,Nov,Sucre,229
+11,2015,Nov,Tolima,1299
+11,2015,Nov,Valle del Cauca,8812
+11,2015,Nov,Vaupés,1
+11,2015,Nov,Vichada,8
+12,2015,Dic,Amazonas,34
+12,2015,Dic,Antioquia,11943
+12,2015,Dic,Arauca,116
+12,2015,Dic,Atlántico,3260
+12,2015,Dic,Bogotá D.C.,58110
+12,2015,Dic,Bolívar,1673
+12,2015,Dic,Boyacá,824
+12,2015,Dic,Caldas,875
+12,2015,Dic,Caquetá,98
+12,2015,Dic,Casanare,408
+12,2015,Dic,Cauca,471
+12,2015,Dic,Cesar,437
+12,2015,Dic,Chocó,105
+12,2015,Dic,Córdoba,364
+12,2015,Dic,Cundinamarca,4797
+12,2015,Dic,Guainía,10
+12,2015,Dic,Guaviare,22
+12,2015,Dic,Huila,835
+12,2015,Dic,La Guajira,222
+12,2015,Dic,Magdalena,570
+12,2015,Dic,Meta,1725
+12,2015,Dic,Nariño,503
+12,2015,Dic,Norte de Santander,569
+12,2015,Dic,Putumayo,138
+12,2015,Dic,Quindío,420
+12,2015,Dic,Risaralda,1381
+12,2015,Dic,"Archipiélago de San Andrés, Providencia y Santa Catalina",82
+12,2015,Dic,Santander,3674
+12,2015,Dic,Sucre,161
+12,2015,Dic,Tolima,1137
+12,2015,Dic,Valle del Cauca,6908
+12,2015,Dic,Vaupés,7
+12,2015,Dic,Vichada,15
+1,2016,Ene,Amazonas,48
+1,2016,Ene,Antioquia,12522
+1,2016,Ene,Arauca,122
+1,2016,Ene,Atlántico,4615
+1,2016,Ene,Bogotá D.C.,73556
+1,2016,Ene,Bolívar,2383
+1,2016,Ene,Boyacá,1070
+1,2016,Ene,Caldas,1168
+1,2016,Ene,Caquetá,150
+1,2016,Ene,Casanare,629
+1,2016,Ene,Cauca,675
+1,2016,Ene,Cesar,651
+1,2016,Ene,Chocó,118
+1,2016,Ene,Córdoba,541
+1,2016,Ene,Cundinamarca,6291
+1,2016,Ene,Guainía,13
+1,2016,Ene,Guaviare,30
+1,2016,Ene,Huila,1006
+1,2016,Ene,La Guajira,277
+1,2016,Ene,Magdalena,792
+1,2016,Ene,Meta,1968
+1,2016,Ene,Nariño,720
+1,2016,Ene,Norte de Santander,798
+1,2016,Ene,Putumayo,265
+1,2016,Ene,Quindío,599
+1,2016,Ene,Risaralda,2140
+1,2016,Ene,"Archipiélago de San Andrés, Providencia y Santa Catalina",41
+1,2016,Ene,Santander,5014
+1,2016,Ene,Sucre,268
+1,2016,Ene,Tolima,1287
+1,2016,Ene,Valle del Cauca,10580
+1,2016,Ene,Vaupés,18
+1,2016,Ene,Vichada,21
+2,2016,Feb,Amazonas,31
+2,2016,Feb,Antioquia,16833
+2,2016,Feb,Arauca,150
+2,2016,Feb,Atlántico,4388
+2,2016,Feb,Bogotá D.C.,72803
+2,2016,Feb,Bolívar,2178
+2,2016,Feb,Boyacá,1333
+2,2016,Feb,Caldas,1077
+2,2016,Feb,Caquetá,187
+2,2016,Feb,Casanare,748
+2,2016,Feb,Cauca,651
+2,2016,Feb,Cesar,594
+2,2016,Feb,Chocó,126
+2,2016,Feb,Córdoba,564
+2,2016,Feb,Cundinamarca,5722
+2,2016,Feb,Guainía,55
+2,2016,Feb,Guaviare,40
+2,2016,Feb,Huila,1088
+2,2016,Feb,La Guajira,294
+2,2016,Feb,Magdalena,800
+2,2016,Feb,Meta,1897
+2,2016,Feb,Nariño,862
+2,2016,Feb,Norte de Santander,818
+2,2016,Feb,Putumayo,218
+2,2016,Feb,Quindío,704
+2,2016,Feb,Risaralda,2153
+2,2016,Feb,"Archipiélago de San Andrés, Providencia y Santa Catalina",125
+2,2016,Feb,Santander,4752
+2,2016,Feb,Sucre,292
+2,2016,Feb,Tolima,1269
+2,2016,Feb,Valle del Cauca,10598
+2,2016,Feb,Vaupés,17
+2,2016,Feb,Vichada,19
+3,2016,Mar,Amazonas,37
+3,2016,Mar,Antioquia,14030
+3,2016,Mar,Arauca,170
+3,2016,Mar,Atlántico,3870
+3,2016,Mar,Bogotá D.C.,60803
+3,2016,Mar,Bolívar,1932
+3,2016,Mar,Boyacá,1154
+3,2016,Mar,Caldas,981
+3,2016,Mar,Caquetá,166
+3,2016,Mar,Casanare,588
+3,2016,Mar,Cauca,629
+3,2016,Mar,Cesar,619
+3,2016,Mar,Chocó,98
+3,2016,Mar,Córdoba,517
+3,2016,Mar,Cundinamarca,5100
+3,2016,Mar,Guainía,5
+3,2016,Mar,Guaviare,16
+3,2016,Mar,Huila,824
+3,2016,Mar,La Guajira,268
+3,2016,Mar,Magdalena,672
+3,2016,Mar,Meta,1731
+3,2016,Mar,Nariño,721
+3,2016,Mar,Norte de Santander,666
+3,2016,Mar,Putumayo,142
+3,2016,Mar,Quindío,526
+3,2016,Mar,Risaralda,1696
+3,2016,Mar,"Archipiélago de San Andrés, Providencia y Santa Catalina",93
+3,2016,Mar,Santander,3962
+3,2016,Mar,Sucre,195
+3,2016,Mar,Tolima,1228
+3,2016,Mar,Valle del Cauca,8947
+3,2016,Mar,Vaupés,7
+3,2016,Mar,Vichada,3
+4,2016,Abr,Amazonas,67
+4,2016,Abr,Antioquia,17392
+4,2016,Abr,Arauca,151
+4,2016,Abr,Atlántico,4538
+4,2016,Abr,Bogotá D.C.,75449
+4,2016,Abr,Bolívar,2032
+4,2016,Abr,Boyacá,1305
+4,2016,Abr,Caldas,1030
+4,2016,Abr,Caquetá,237
+4,2016,Abr,Casanare,837
+4,2016,Abr,Cauca,715
+4,2016,Abr,Cesar,630
+4,2016,Abr,Chocó,123
+4,2016,Abr,Córdoba,666
+4,2016,Abr,Cundinamarca,5905
+4,2016,Abr,Guainía,31
+4,2016,Abr,Guaviare,30
+4,2016,Abr,Huila,989
+4,2016,Abr,La Guajira,306
+4,2016,Abr,Magdalena,794
+4,2016,Abr,Meta,2103
+4,2016,Abr,Nariño,760
+4,2016,Abr,Norte de Santander,966
+4,2016,Abr,Putumayo,190
+4,2016,Abr,Quindío,664
+4,2016,Abr,Risaralda,1968
+4,2016,Abr,"Archipiélago de San Andrés, Providencia y Santa Catalina",90
+4,2016,Abr,Santander,4493
+4,2016,Abr,Sucre,298
+4,2016,Abr,Tolima,1341
+4,2016,Abr,Valle del Cauca,11007
+4,2016,Abr,Vaupés,15
+4,2016,Abr,Vichada,12
+5,2016,May,Amazonas,53
+5,2016,May,Antioquia,15608
+5,2016,May,Arauca,226
+5,2016,May,Atlántico,4110
+5,2016,May,Bogotá D.C.,64134
+5,2016,May,Bolívar,1977
+5,2016,May,Boyacá,1196
+5,2016,May,Caldas,937
+5,2016,May,Caquetá,225
+5,2016,May,Casanare,973
+5,2016,May,Cauca,593
+5,2016,May,Cesar,602
+5,2016,May,Chocó,103
+5,2016,May,Córdoba,578
+5,2016,May,Cundinamarca,5352
+5,2016,May,Guainía,19
+5,2016,May,Guaviare,36
+5,2016,May,Huila,1048
+5,2016,May,La Guajira,315
+5,2016,May,Magdalena,792
+5,2016,May,Meta,1761
+5,2016,May,Nariño,856
+5,2016,May,Norte de Santander,701
+5,2016,May,Putumayo,223
+5,2016,May,Quindío,557
+5,2016,May,Risaralda,1852
+5,2016,May,"Archipiélago de San Andrés, Providencia y Santa Catalina",161
+5,2016,May,Santander,4260
+5,2016,May,Sucre,266
+5,2016,May,Tolima,1193
+5,2016,May,Valle del Cauca,10157
+5,2016,May,Vaupés,19
+5,2016,May,Vichada,17
+6,2016,Jun,Amazonas,41
+6,2016,Jun,Antioquia,16988
+6,2016,Jun,Arauca,154
+6,2016,Jun,Atlántico,4152
+6,2016,Jun,Bogotá D.C.,68479
+6,2016,Jun,Bolívar,2099
+6,2016,Jun,Boyacá,1317
+6,2016,Jun,Caldas,1029
+6,2016,Jun,Caquetá,239
+6,2016,Jun,Casanare,1570
+6,2016,Jun,Cauca,559
+6,2016,Jun,Cesar,569
+6,2016,Jun,Chocó,129
+6,2016,Jun,Córdoba,633
+6,2016,Jun,Cundinamarca,6030
+6,2016,Jun,Guainía,26
+6,2016,Jun,Guaviare,19
+6,2016,Jun,Huila,1016
+6,2016,Jun,La Guajira,249
+6,2016,Jun,Magdalena,888
+6,2016,Jun,Meta,2226
+6,2016,Jun,Nariño,842
+6,2016,Jun,Norte de Santander,760
+6,2016,Jun,Putumayo,255
+6,2016,Jun,Quindío,615
+6,2016,Jun,Risaralda,2048
+6,2016,Jun,"Archipiélago de San Andrés, Providencia y Santa Catalina",226
+6,2016,Jun,Santander,4335
+6,2016,Jun,Sucre,352
+6,2016,Jun,Tolima,1295
+6,2016,Jun,Valle del Cauca,10988
+6,2016,Jun,Vaupés,8
+6,2016,Jun,Vichada,16
+7,2016,Jul,Amazonas,41
+7,2016,Jul,Antioquia,15440
+7,2016,Jul,Arauca,178
+7,2016,Jul,Atlántico,3886
+7,2016,Jul,Bogotá D.C.,58614
+7,2016,Jul,Bolívar,1778
+7,2016,Jul,Boyacá,1164
+7,2016,Jul,Caldas,963
+7,2016,Jul,Caquetá,202
+7,2016,Jul,Casanare,1411
+7,2016,Jul,Cauca,740
+7,2016,Jul,Cesar,680
+7,2016,Jul,Chocó,149
+7,2016,Jul,Córdoba,577
+7,2016,Jul,Cundinamarca,5274
+7,2016,Jul,Guainía,17
+7,2016,Jul,Guaviare,32
+7,2016,Jul,Huila,1057
+7,2016,Jul,La Guajira,303
+7,2016,Jul,Magdalena,693
+7,2016,Jul,Meta,2061
+7,2016,Jul,Nariño,783
+7,2016,Jul,Norte de Santander,803
+7,2016,Jul,Putumayo,223
+7,2016,Jul,Quindío,622
+7,2016,Jul,Risaralda,1819
+7,2016,Jul,"Archipiélago de San Andrés, Providencia y Santa Catalina",177
+7,2016,Jul,Santander,4053
+7,2016,Jul,Sucre,335
+7,2016,Jul,Tolima,1357
+7,2016,Jul,Valle del Cauca,9784
+7,2016,Jul,Vaupés,7
+7,2016,Jul,Vichada,14
+8,2016,Ago,Amazonas,72
+8,2016,Ago,Antioquia,18833
+8,2016,Ago,Arauca,195
+8,2016,Ago,Atlántico,4764
+8,2016,Ago,Bogotá D.C.,71276
+8,2016,Ago,Bolívar,2219
+8,2016,Ago,Boyacá,1472
+8,2016,Ago,Caldas,1242
+8,2016,Ago,Caquetá,261
+8,2016,Ago,Casanare,1831
+8,2016,Ago,Cauca,820
+8,2016,Ago,Cesar,736
+8,2016,Ago,Chocó,116
+8,2016,Ago,Córdoba,687
+8,2016,Ago,Cundinamarca,6710
+8,2016,Ago,Guainía,28
+8,2016,Ago,Guaviare,30
+8,2016,Ago,Huila,1233
+8,2016,Ago,La Guajira,421
+8,2016,Ago,Magdalena,886
+8,2016,Ago,Meta,2347
+8,2016,Ago,Nariño,970
+8,2016,Ago,Norte de Santander,949
+8,2016,Ago,Putumayo,280
+8,2016,Ago,Quindío,777
+8,2016,Ago,Risaralda,2411
+8,2016,Ago,"Archipiélago de San Andrés, Providencia y Santa Catalina",166
+8,2016,Ago,Santander,4884
+8,2016,Ago,Sucre,396
+8,2016,Ago,Tolima,1596
+8,2016,Ago,Valle del Cauca,11269
+8,2016,Ago,Vaupés,10
+8,2016,Ago,Vichada,28
+9,2016,Sep,Amazonas,25
+9,2016,Sep,Antioquia,15818
+9,2016,Sep,Arauca,202
+9,2016,Sep,Atlántico,3883
+9,2016,Sep,Bogotá D.C.,64923
+9,2016,Sep,Bolívar,1866
+9,2016,Sep,Boyacá,1235
+9,2016,Sep,Caldas,936
+9,2016,Sep,Caquetá,212
+9,2016,Sep,Casanare,1508
+9,2016,Sep,Cauca,659
+9,2016,Sep,Cesar,622
+9,2016,Sep,Chocó,122
+9,2016,Sep,Córdoba,494
+9,2016,Sep,Cundinamarca,6045
+9,2016,Sep,Guainía,12
+9,2016,Sep,Guaviare,18
+9,2016,Sep,Huila,1042
+9,2016,Sep,La Guajira,373
+9,2016,Sep,Magdalena,603
+9,2016,Sep,Meta,2134
+9,2016,Sep,Nariño,974
+9,2016,Sep,Norte de Santander,825
+9,2016,Sep,Putumayo,235
+9,2016,Sep,Quindío,619
+9,2016,Sep,Risaralda,1983
+9,2016,Sep,"Archipiélago de San Andrés, Providencia y Santa Catalina",128
+9,2016,Sep,Santander,4157
+9,2016,Sep,Sucre,329
+9,2016,Sep,Tolima,1348
+9,2016,Sep,Valle del Cauca,9991
+9,2016,Sep,Vaupés,4
+9,2016,Sep,Vichada,12
+10,2016,Oct,Amazonas,41
+10,2016,Oct,Antioquia,14563
+10,2016,Oct,Arauca,233
+10,2016,Oct,Atlántico,3704
+10,2016,Oct,Bogotá D.C.,63715
+10,2016,Oct,Bolívar,1666
+10,2016,Oct,Boyacá,1435
+10,2016,Oct,Caldas,1018
+10,2016,Oct,Caquetá,177
+10,2016,Oct,Casanare,1734
+10,2016,Oct,Cauca,656
+10,2016,Oct,Cesar,635
+10,2016,Oct,Chocó,107
+10,2016,Oct,Córdoba,467
+10,2016,Oct,Cundinamarca,5602
+10,2016,Oct,Guainía,15
+10,2016,Oct,Guaviare,14
+10,2016,Oct,Huila,1092
+10,2016,Oct,La Guajira,356
+10,2016,Oct,Magdalena,602
+10,2016,Oct,Meta,2163
+10,2016,Oct,Nariño,739
+10,2016,Oct,Norte de Santander,864
+10,2016,Oct,Putumayo,255
+10,2016,Oct,Quindío,602
+10,2016,Oct,Risaralda,1890
+10,2016,Oct,"Archipiélago de San Andrés, Providencia y Santa Catalina",134
+10,2016,Oct,Santander,3836
+10,2016,Oct,Sucre,306
+10,2016,Oct,Tolima,1365
+10,2016,Oct,Valle del Cauca,9012
+10,2016,Oct,Vaupés,5
+10,2016,Oct,Vichada,20
+11,2016,Nov,Amazonas,41
+11,2016,Nov,Antioquia,14997
+11,2016,Nov,Arauca,275
+11,2016,Nov,Atlántico,3727
+11,2016,Nov,Bogotá D.C.,69681
+11,2016,Nov,Bolívar,1608
+11,2016,Nov,Boyacá,1351
+11,2016,Nov,Caldas,1044
+11,2016,Nov,Caquetá,216
+11,2016,Nov,Casanare,1805
+11,2016,Nov,Cauca,731
+11,2016,Nov,Cesar,702
+11,2016,Nov,Chocó,116
+11,2016,Nov,Córdoba,536
+11,2016,Nov,Cundinamarca,6131
+11,2016,Nov,Guainía,5
+11,2016,Nov,Guaviare,25
+11,2016,Nov,Huila,1159
+11,2016,Nov,La Guajira,261
+11,2016,Nov,Magdalena,556
+11,2016,Nov,Meta,2287
+11,2016,Nov,Nariño,721
+11,2016,Nov,Norte de Santander,822
+11,2016,Nov,Putumayo,366
+11,2016,Nov,Quindío,617
+11,2016,Nov,Risaralda,2036
+11,2016,Nov,"Archipiélago de San Andrés, Providencia y Santa Catalina",148
+11,2016,Nov,Santander,4016
+11,2016,Nov,Sucre,299
+11,2016,Nov,Tolima,1459
+11,2016,Nov,Valle del Cauca,9405
+11,2016,Nov,Vaupés,0
+11,2016,Nov,Vichada,4
+12,2016,Dic,Amazonas,39
+12,2016,Dic,Antioquia,13544
+12,2016,Dic,Arauca,257
+12,2016,Dic,Atlántico,3284
+12,2016,Dic,Bogotá D.C.,64739
+12,2016,Dic,Bolívar,1498
+12,2016,Dic,Boyacá,1211
+12,2016,Dic,Caldas,813
+12,2016,Dic,Caquetá,161
+12,2016,Dic,Casanare,2036
+12,2016,Dic,Cauca,534
+12,2016,Dic,Cesar,647
+12,2016,Dic,Chocó,80
+12,2016,Dic,Córdoba,417
+12,2016,Dic,Cundinamarca,5766
+12,2016,Dic,Guainía,4
+12,2016,Dic,Guaviare,22
+12,2016,Dic,Huila,1001
+12,2016,Dic,La Guajira,227
+12,2016,Dic,Magdalena,499
+12,2016,Dic,Meta,2130
+12,2016,Dic,Nariño,652
+12,2016,Dic,Norte de Santander,708
+12,2016,Dic,Putumayo,269
+12,2016,Dic,Quindío,508
+12,2016,Dic,Risaralda,1675
+12,2016,Dic,"Archipiélago de San Andrés, Providencia y Santa Catalina",96
+12,2016,Dic,Santander,3715
+12,2016,Dic,Sucre,266
+12,2016,Dic,Tolima,1189
+12,2016,Dic,Valle del Cauca,8107
+12,2016,Dic,Vaupés,10
+12,2016,Dic,Vichada,7
+1,2017,Ene,Amazonas,49
+1,2017,Ene,Antioquia,15293
+1,2017,Ene,Arauca,297
+1,2017,Ene,Atlántico,4200
+1,2017,Ene,Bogotá D.C.,73154
+1,2017,Ene,Bolívar,1899
+1,2017,Ene,Boyacá,1391
+1,2017,Ene,Caldas,1002
+1,2017,Ene,Caquetá,237
+1,2017,Ene,Casanare,2287
+1,2017,Ene,Cauca,647
+1,2017,Ene,Cesar,731
+1,2017,Ene,Chocó,161
+1,2017,Ene,Córdoba,688
+1,2017,Ene,Cundinamarca,6796
+1,2017,Ene,Guainía,40
+1,2017,Ene,Guaviare,74
+1,2017,Ene,Huila,1143
+1,2017,Ene,La Guajira,348
+1,2017,Ene,Magdalena,608
+1,2017,Ene,Meta,2516
+1,2017,Ene,Nariño,797
+1,2017,Ene,Norte de Santander,972
+1,2017,Ene,Putumayo,328
+1,2017,Ene,Quindío,598
+1,2017,Ene,Risaralda,2147
+1,2017,Ene,"Archipiélago de San Andrés, Providencia y Santa Catalina",125
+1,2017,Ene,Santander,4339
+1,2017,Ene,Sucre,304
+1,2017,Ene,Tolima,1465
+1,2017,Ene,Valle del Cauca,10521
+1,2017,Ene,Vaupés,5
+1,2017,Ene,Vichada,7
+2,2017,Feb,Amazonas,86
+2,2017,Feb,Antioquia,15206
+2,2017,Feb,Arauca,312
+2,2017,Feb,Atlántico,3521
+2,2017,Feb,Bogotá D.C.,65312
+2,2017,Feb,Bolívar,1769
+2,2017,Feb,Boyacá,1290
+2,2017,Feb,Caldas,1076
+2,2017,Feb,Caquetá,278
+2,2017,Feb,Casanare,2566
+2,2017,Feb,Cauca,651
+2,2017,Feb,Cesar,721
+2,2017,Feb,Chocó,113
+2,2017,Feb,Córdoba,589
+2,2017,Feb,Cundinamarca,6293
+2,2017,Feb,Guainía,23
+2,2017,Feb,Guaviare,42
+2,2017,Feb,Huila,1066
+2,2017,Feb,La Guajira,266
+2,2017,Feb,Magdalena,559
+2,2017,Feb,Meta,2259
+2,2017,Feb,Nariño,789
+2,2017,Feb,Norte de Santander,1094
+2,2017,Feb,Putumayo,327
+2,2017,Feb,Quindío,609
+2,2017,Feb,Risaralda,1909
+2,2017,Feb,"Archipiélago de San Andrés, Providencia y Santa Catalina",206
+2,2017,Feb,Santander,4032
+2,2017,Feb,Sucre,271
+2,2017,Feb,Tolima,1356
+2,2017,Feb,Valle del Cauca,9671
+2,2017,Feb,Vaupés,8
+2,2017,Feb,Vichada,25
+3,2017,Mar,Amazonas,110
+3,2017,Mar,Antioquia,16243
+3,2017,Mar,Arauca,269
+3,2017,Mar,Atlántico,4228
+3,2017,Mar,Bogotá D.C.,65204
+3,2017,Mar,Bolívar,1824
+3,2017,Mar,Boyacá,1387
+3,2017,Mar,Caldas,1056
+3,2017,Mar,Caquetá,296
+3,2017,Mar,Casanare,2725
+3,2017,Mar,Cauca,739
+3,2017,Mar,Cesar,940
+3,2017,Mar,Chocó,165
+3,2017,Mar,Córdoba,650
+3,2017,Mar,Cundinamarca,6718
+3,2017,Mar,Guainía,29
+3,2017,Mar,Guaviare,19
+3,2017,Mar,Huila,1145
+3,2017,Mar,La Guajira,350
+3,2017,Mar,Magdalena,618
+3,2017,Mar,Meta,2538
+3,2017,Mar,Nariño,840
+3,2017,Mar,Norte de Santander,1038
+3,2017,Mar,Putumayo,347
+3,2017,Mar,Quindío,589
+3,2017,Mar,Risaralda,2040
+3,2017,Mar,"Archipiélago de San Andrés, Providencia y Santa Catalina",225
+3,2017,Mar,Santander,4191
+3,2017,Mar,Sucre,311
+3,2017,Mar,Tolima,1558
+3,2017,Mar,Valle del Cauca,10322
+3,2017,Mar,Vaupés,10
+3,2017,Mar,Vichada,10
+4,2017,Abr,Amazonas,65
+4,2017,Abr,Antioquia,13896
+4,2017,Abr,Arauca,235
+4,2017,Abr,Atlántico,3324
+4,2017,Abr,Bogotá D.C.,56946
+4,2017,Abr,Bolívar,1523
+4,2017,Abr,Boyacá,1137
+4,2017,Abr,Caldas,880
+4,2017,Abr,Caquetá,222
+4,2017,Abr,Casanare,1851
+4,2017,Abr,Cauca,538
+4,2017,Abr,Cesar,651
+4,2017,Abr,Chocó,110
+4,2017,Abr,Córdoba,599
+4,2017,Abr,Cundinamarca,5858
+4,2017,Abr,Guainía,9
+4,2017,Abr,Guaviare,12
+4,2017,Abr,Huila,1015
+4,2017,Abr,La Guajira,287
+4,2017,Abr,Magdalena,690
+4,2017,Abr,Meta,2010
+4,2017,Abr,Nariño,733
+4,2017,Abr,Norte de Santander,1194
+4,2017,Abr,Putumayo,321
+4,2017,Abr,Quindío,537
+4,2017,Abr,Risaralda,1755
+4,2017,Abr,"Archipiélago de San Andrés, Providencia y Santa Catalina",179
+4,2017,Abr,Santander,3606
+4,2017,Abr,Sucre,269
+4,2017,Abr,Tolima,1285
+4,2017,Abr,Valle del Cauca,8798
+4,2017,Abr,Vaupés,3
+4,2017,Abr,Vichada,9
+5,2017,May,Amazonas,128
+5,2017,May,Antioquia,17284
+5,2017,May,Arauca,384
+5,2017,May,Atlántico,4045
+5,2017,May,Bogotá D.C.,66419
+5,2017,May,Bolívar,1882
+5,2017,May,Boyacá,1543
+5,2017,May,Caldas,1096
+5,2017,May,Caquetá,249
+5,2017,May,Casanare,2268
+5,2017,May,Cauca,927
+5,2017,May,Cesar,912
+5,2017,May,Chocó,108
+5,2017,May,Córdoba,761
+5,2017,May,Cundinamarca,6762
+5,2017,May,Guainía,25
+5,2017,May,Guaviare,40
+5,2017,May,Huila,1332
+5,2017,May,La Guajira,353
+5,2017,May,Magdalena,688
+5,2017,May,Meta,2556
+5,2017,May,Nariño,914
+5,2017,May,Norte de Santander,1114
+5,2017,May,Putumayo,384
+5,2017,May,Quindío,655
+5,2017,May,Risaralda,2177
+5,2017,May,"Archipiélago de San Andrés, Providencia y Santa Catalina",192
+5,2017,May,Santander,4365
+5,2017,May,Sucre,286
+5,2017,May,Tolima,1628
+5,2017,May,Valle del Cauca,10570
+5,2017,May,Vaupés,17
+5,2017,May,Vichada,35
+6,2017,Jun,Amazonas,133
+6,2017,Jun,Antioquia,15332
+6,2017,Jun,Arauca,357
+6,2017,Jun,Atlántico,3689
+6,2017,Jun,Bogotá D.C.,60363
+6,2017,Jun,Bolívar,1845
+6,2017,Jun,Boyacá,1410
+6,2017,Jun,Caldas,1000
+6,2017,Jun,Caquetá,164
+6,2017,Jun,Casanare,1668
+6,2017,Jun,Cauca,733
+6,2017,Jun,Cesar,896
+6,2017,Jun,Chocó,140
+6,2017,Jun,Córdoba,656
+6,2017,Jun,Cundinamarca,5752
+6,2017,Jun,Guainía,7
+6,2017,Jun,Guaviare,19
+6,2017,Jun,Huila,1181
+6,2017,Jun,La Guajira,332
+6,2017,Jun,Magdalena,584
+6,2017,Jun,Meta,2747
+6,2017,Jun,Nariño,899
+6,2017,Jun,Norte de Santander,911
+6,2017,Jun,Putumayo,523
+6,2017,Jun,Quindío,640
+6,2017,Jun,Risaralda,1739
+6,2017,Jun,"Archipiélago de San Andrés, Providencia y Santa Catalina",147
+6,2017,Jun,Santander,4171
+6,2017,Jun,Sucre,252
+6,2017,Jun,Tolima,1317
+6,2017,Jun,Valle del Cauca,9420
+6,2017,Jun,Vaupés,2
+6,2017,Jun,Vichada,15
+7,2017,Jul,Amazonas,58
+7,2017,Jul,Antioquia,14647
+7,2017,Jul,Arauca,279
+7,2017,Jul,Atlántico,3588
+7,2017,Jul,Bogotá D.C.,61788
+7,2017,Jul,Bolívar,1681
+7,2017,Jul,Boyacá,1403
+7,2017,Jul,Caldas,1040
+7,2017,Jul,Caquetá,179
+7,2017,Jul,Casanare,1725
+7,2017,Jul,Cauca,634
+7,2017,Jul,Cesar,870
+7,2017,Jul,Chocó,151
+7,2017,Jul,Córdoba,542
+7,2017,Jul,Cundinamarca,6027
+7,2017,Jul,Guainía,54
+7,2017,Jul,Guaviare,43
+7,2017,Jul,Huila,1192
+7,2017,Jul,La Guajira,369
+7,2017,Jul,Magdalena,682
+7,2017,Jul,Meta,2760
+7,2017,Jul,Nariño,819
+7,2017,Jul,Norte de Santander,891
+7,2017,Jul,Putumayo,424
+7,2017,Jul,Quindío,616
+7,2017,Jul,Risaralda,1917
+7,2017,Jul,"Archipiélago de San Andrés, Providencia y Santa Catalina",180
+7,2017,Jul,Santander,3783
+7,2017,Jul,Sucre,318
+7,2017,Jul,Tolima,1380
+7,2017,Jul,Valle del Cauca,9508
+7,2017,Jul,Vaupés,13
+7,2017,Jul,Vichada,17
+8,2017,Ago,Amazonas,98
+8,2017,Ago,Antioquia,19069
+8,2017,Ago,Arauca,317
+8,2017,Ago,Atlántico,4266
+8,2017,Ago,Bogotá D.C.,80626
+8,2017,Ago,Bolívar,2252
+8,2017,Ago,Boyacá,1844
+8,2017,Ago,Caldas,1283
+8,2017,Ago,Caquetá,235
+8,2017,Ago,Casanare,1715
+8,2017,Ago,Cauca,810
+8,2017,Ago,Cesar,1097
+8,2017,Ago,Chocó,216
+8,2017,Ago,Córdoba,740
+8,2017,Ago,Cundinamarca,7697
+8,2017,Ago,Guainía,29
+8,2017,Ago,Guaviare,45
+8,2017,Ago,Huila,1554
+8,2017,Ago,La Guajira,316
+8,2017,Ago,Magdalena,1109
+8,2017,Ago,Meta,3329
+8,2017,Ago,Nariño,947
+8,2017,Ago,Norte de Santander,1174
+8,2017,Ago,Putumayo,570
+8,2017,Ago,Quindío,942
+8,2017,Ago,Risaralda,2388
+8,2017,Ago,"Archipiélago de San Andrés, Providencia y Santa Catalina",301
+8,2017,Ago,Santander,4902
+8,2017,Ago,Sucre,451
+8,2017,Ago,Tolima,1765
+8,2017,Ago,Valle del Cauca,11013
+8,2017,Ago,Vaupés,16
+8,2017,Ago,Vichada,10
+9,2017,Sep,Amazonas,94
+9,2017,Sep,Antioquia,19027
+9,2017,Sep,Arauca,418
+9,2017,Sep,Atlántico,4112
+9,2017,Sep,Bogotá D.C.,77851
+9,2017,Sep,Bolívar,2310
+9,2017,Sep,Boyacá,1882
+9,2017,Sep,Caldas,1220
+9,2017,Sep,Caquetá,332
+9,2017,Sep,Casanare,1926
+9,2017,Sep,Cauca,831
+9,2017,Sep,Cesar,985
+9,2017,Sep,Chocó,190
+9,2017,Sep,Córdoba,786
+9,2017,Sep,Cundinamarca,8069
+9,2017,Sep,Guainía,31
+9,2017,Sep,Guaviare,40
+9,2017,Sep,Huila,1508
+9,2017,Sep,La Guajira,427
+9,2017,Sep,Magdalena,902
+9,2017,Sep,Meta,3386
+9,2017,Sep,Nariño,940
+9,2017,Sep,Norte de Santander,1215
+9,2017,Sep,Putumayo,551
+9,2017,Sep,Quindío,853
+9,2017,Sep,Risaralda,2346
+9,2017,Sep,"Archipiélago de San Andrés, Providencia y Santa Catalina",277
+9,2017,Sep,Santander,4536
+9,2017,Sep,Sucre,435
+9,2017,Sep,Tolima,1677
+9,2017,Sep,Valle del Cauca,11243
+9,2017,Sep,Vaupés,39
+9,2017,Sep,Vichada,10
+10,2017,Oct,Amazonas,96
+10,2017,Oct,Antioquia,19767
+10,2017,Oct,Arauca,424
+10,2017,Oct,Atlántico,4875
+10,2017,Oct,Bogotá D.C.,76301
+10,2017,Oct,Bolívar,2236
+10,2017,Oct,Boyacá,1894
+10,2017,Oct,Caldas,1337
+10,2017,Oct,Caquetá,372
+10,2017,Oct,Casanare,2090
+10,2017,Oct,Cauca,761
+10,2017,Oct,Cesar,1192
+10,2017,Oct,Chocó,141
+10,2017,Oct,Córdoba,766
+10,2017,Oct,Cundinamarca,7341
+10,2017,Oct,Guainía,32
+10,2017,Oct,Guaviare,35
+10,2017,Oct,Huila,1429
+10,2017,Oct,La Guajira,323
+10,2017,Oct,Magdalena,929
+10,2017,Oct,Meta,3176
+10,2017,Oct,Nariño,1055
+10,2017,Oct,Norte de Santander,1136
+10,2017,Oct,Putumayo,536
+10,2017,Oct,Quindío,927
+10,2017,Oct,Risaralda,2686
+10,2017,Oct,"Archipiélago de San Andrés, Providencia y Santa Catalina",298
+10,2017,Oct,Santander,4265
+10,2017,Oct,Sucre,500
+10,2017,Oct,Tolima,1751
+10,2017,Oct,Valle del Cauca,11217
+10,2017,Oct,Vaupés,7
+10,2017,Oct,Vichada,14
+11,2017,Nov,Amazonas,77
+11,2017,Nov,Antioquia,19527
+11,2017,Nov,Arauca,328
+11,2017,Nov,Atlántico,3681
+11,2017,Nov,Bogotá D.C.,81475
+11,2017,Nov,Bolívar,1801
+11,2017,Nov,Boyacá,2007
+11,2017,Nov,Caldas,1315
+11,2017,Nov,Caquetá,384
+11,2017,Nov,Casanare,2570
+11,2017,Nov,Cauca,922
+11,2017,Nov,Cesar,903
+11,2017,Nov,Chocó,149
+11,2017,Nov,Córdoba,715
+11,2017,Nov,Cundinamarca,8595
+11,2017,Nov,Guainía,28
+11,2017,Nov,Guaviare,26
+11,2017,Nov,Huila,1419
+11,2017,Nov,La Guajira,275
+11,2017,Nov,Magdalena,999
+11,2017,Nov,Meta,3089
+11,2017,Nov,Nariño,911
+11,2017,Nov,Norte de Santander,1111
+11,2017,Nov,Putumayo,475
+11,2017,Nov,Quindío,888
+11,2017,Nov,Risaralda,2367
+11,2017,Nov,"Archipiélago de San Andrés, Providencia y Santa Catalina",286
+11,2017,Nov,Santander,4392
+11,2017,Nov,Sucre,424
+11,2017,Nov,Tolima,1786
+11,2017,Nov,Valle del Cauca,10430
+11,2017,Nov,Vaupés,15
+11,2017,Nov,Vichada,11
+12,2017,Dic,Amazonas,101
+12,2017,Dic,Antioquia,16852
+12,2017,Dic,Arauca,487
+12,2017,Dic,Atlántico,2963
+12,2017,Dic,Bogotá D.C.,71987
+12,2017,Dic,Bolívar,1515
+12,2017,Dic,Boyacá,1546
+12,2017,Dic,Caldas,1199
+12,2017,Dic,Caquetá,202
+12,2017,Dic,Casanare,2086
+12,2017,Dic,Cauca,772
+12,2017,Dic,Cesar,1168
+12,2017,Dic,Chocó,171
+12,2017,Dic,Córdoba,627
+12,2017,Dic,Cundinamarca,7880
+12,2017,Dic,Guainía,19
+12,2017,Dic,Guaviare,47
+12,2017,Dic,Huila,1559
+12,2017,Dic,La Guajira,372
+12,2017,Dic,Magdalena,975
+12,2017,Dic,Meta,2459
+12,2017,Dic,Nariño,844
+12,2017,Dic,Norte de Santander,1099
+12,2017,Dic,Putumayo,539
+12,2017,Dic,Quindío,780
+12,2017,Dic,Risaralda,2179
+12,2017,Dic,"Archipiélago de San Andrés, Providencia y Santa Catalina",273
+12,2017,Dic,Santander,3892
+12,2017,Dic,Sucre,395
+12,2017,Dic,Tolima,1459
+12,2017,Dic,Valle del Cauca,9725
+12,2017,Dic,Vaupés,4
+12,2017,Dic,Vichada,15
+1,2018,Ene,Amazonas,131
+1,2018,Ene,Antioquia,18357
+1,2018,Ene,Arauca,372
+1,2018,Ene,Atlántico,4066
+1,2018,Ene,Bogotá D.C.,76696
+1,2018,Ene,Bolívar,2168
+1,2018,Ene,Boyacá,1796
+1,2018,Ene,Caldas,1390
+1,2018,Ene,Caquetá,337
+1,2018,Ene,Casanare,2214
+1,2018,Ene,Cauca,819
+1,2018,Ene,Cesar,1026
+1,2018,Ene,Chocó,218
+1,2018,Ene,Córdoba,725
+1,2018,Ene,Cundinamarca,7251
+1,2018,Ene,Guainía,97
+1,2018,Ene,Guaviare,129
+1,2018,Ene,Huila,1393
+1,2018,Ene,La Guajira,393
+1,2018,Ene,Magdalena,717
+1,2018,Ene,Meta,3048
+1,2018,Ene,Nariño,812
+1,2018,Ene,Norte de Santander,1139
+1,2018,Ene,Putumayo,551
+1,2018,Ene,Quindío,776
+1,2018,Ene,Risaralda,2330
+1,2018,Ene,"Archipiélago de San Andrés, Providencia y Santa Catalina",204
+1,2018,Ene,Santander,4470
+1,2018,Ene,Sucre,437
+1,2018,Ene,Tolima,1566
+1,2018,Ene,Valle del Cauca,11504
+1,2018,Ene,Vaupés,33
+1,2018,Ene,Vichada,111
+2,2018,Feb,Amazonas,159
+2,2018,Feb,Antioquia,18786
+2,2018,Feb,Arauca,340
+2,2018,Feb,Atlántico,3878
+2,2018,Feb,Bogotá D.C.,78180
+2,2018,Feb,Bolívar,1849
+2,2018,Feb,Boyacá,1668
+2,2018,Feb,Caldas,1351
+2,2018,Feb,Caquetá,341
+2,2018,Feb,Casanare,2516
+2,2018,Feb,Cauca,739
+2,2018,Feb,Cesar,1029
+2,2018,Feb,Chocó,193
+2,2018,Feb,Córdoba,667
+2,2018,Feb,Cundinamarca,8598
+2,2018,Feb,Guainía,58
+2,2018,Feb,Guaviare,59
+2,2018,Feb,Huila,1527
+2,2018,Feb,La Guajira,401
+2,2018,Feb,Magdalena,891
+2,2018,Feb,Meta,2408
+2,2018,Feb,Nariño,778
+2,2018,Feb,Norte de Santander,1286
+2,2018,Feb,Putumayo,486
+2,2018,Feb,Quindío,852
+2,2018,Feb,Risaralda,2847
+2,2018,Feb,"Archipiélago de San Andrés, Providencia y Santa Catalina",204
+2,2018,Feb,Santander,4460
+2,2018,Feb,Sucre,390
+2,2018,Feb,Tolima,1528
+2,2018,Feb,Valle del Cauca,11204
+2,2018,Feb,Vaupés,33
+2,2018,Feb,Vichada,32
+3,2018,Mar,Amazonas,127
+3,2018,Mar,Antioquia,19228
+3,2018,Mar,Arauca,356
+3,2018,Mar,Atlántico,3970
+3,2018,Mar,Bogotá D.C.,74812
+3,2018,Mar,Bolívar,1709
+3,2018,Mar,Boyacá,1516
+3,2018,Mar,Caldas,1452
+3,2018,Mar,Caquetá,328
+3,2018,Mar,Casanare,2101
+3,2018,Mar,Cauca,834
+3,2018,Mar,Cesar,1054
+3,2018,Mar,Chocó,168
+3,2018,Mar,Córdoba,750
+3,2018,Mar,Cundinamarca,8957
+3,2018,Mar,Guainía,58
+3,2018,Mar,Guaviare,68
+3,2018,Mar,Huila,1461
+3,2018,Mar,La Guajira,356
+3,2018,Mar,Magdalena,686
+3,2018,Mar,Meta,3067
+3,2018,Mar,Nariño,819
+3,2018,Mar,Norte de Santander,1213
+3,2018,Mar,Putumayo,429
+3,2018,Mar,Quindío,1013
+3,2018,Mar,Risaralda,2494
+3,2018,Mar,"Archipiélago de San Andrés, Providencia y Santa Catalina",294
+3,2018,Mar,Santander,4644
+3,2018,Mar,Sucre,406
+3,2018,Mar,Tolima,1688
+3,2018,Mar,Valle del Cauca,10520
+3,2018,Mar,Vaupés,42
+3,2018,Mar,Vichada,54
+4,2018,Abr,Amazonas,115
+4,2018,Abr,Antioquia,22452
+4,2018,Abr,Arauca,281
+4,2018,Abr,Atlántico,4741
+4,2018,Abr,Bogotá D.C.,88032
+4,2018,Abr,Bolívar,2047
+4,2018,Abr,Boyacá,1969
+4,2018,Abr,Caldas,1864
+4,2018,Abr,Caquetá,341
+4,2018,Abr,Casanare,2579
+4,2018,Abr,Cauca,908
+4,2018,Abr,Cesar,1349
+4,2018,Abr,Chocó,254
+4,2018,Abr,Córdoba,850
+4,2018,Abr,Cundinamarca,10721
+4,2018,Abr,Guainía,51
+4,2018,Abr,Guaviare,52
+4,2018,Abr,Huila,1491
+4,2018,Abr,La Guajira,352
+4,2018,Abr,Magdalena,902
+4,2018,Abr,Meta,3161
+4,2018,Abr,Nariño,1138
+4,2018,Abr,Norte de Santander,1374
+4,2018,Abr,Putumayo,584
+4,2018,Abr,Quindío,967
+4,2018,Abr,Risaralda,2758
+4,2018,Abr,"Archipiélago de San Andrés, Providencia y Santa Catalina",244
+4,2018,Abr,Santander,5187
+4,2018,Abr,Sucre,369
+4,2018,Abr,Tolima,1749
+4,2018,Abr,Valle del Cauca,12747
+4,2018,Abr,Vaupés,14
+4,2018,Abr,Vichada,39
+5,2018,May,Amazonas,136
+5,2018,May,Antioquia,21233
+5,2018,May,Arauca,381
+5,2018,May,Atlántico,4782
+5,2018,May,Bogotá D.C.,87234
+5,2018,May,Bolívar,1831
+5,2018,May,Boyacá,2059
+5,2018,May,Caldas,1742
+5,2018,May,Caquetá,329
+5,2018,May,Casanare,2989
+5,2018,May,Cauca,927
+5,2018,May,Cesar,1643
+5,2018,May,Chocó,173
+5,2018,May,Córdoba,1044
+5,2018,May,Cundinamarca,10856
+5,2018,May,Guainía,33
+5,2018,May,Guaviare,32
+5,2018,May,Huila,1501
+5,2018,May,La Guajira,416
+5,2018,May,Magdalena,1138
+5,2018,May,Meta,3141
+5,2018,May,Nariño,1010
+5,2018,May,Norte de Santander,1294
+5,2018,May,Putumayo,591
+5,2018,May,Quindío,888
+5,2018,May,Risaralda,2883
+5,2018,May,"Archipiélago de San Andrés, Providencia y Santa Catalina",291
+5,2018,May,Santander,5337
+5,2018,May,Sucre,306
+5,2018,May,Tolima,2148
+5,2018,May,Valle del Cauca,12159
+5,2018,May,Vaupés,8
+5,2018,May,Vichada,9
+6,2018,Jun,Amazonas,39
+6,2018,Jun,Antioquia,17715
+6,2018,Jun,Arauca,284
+6,2018,Jun,Atlántico,3729
+6,2018,Jun,Bogotá D.C.,70182
+6,2018,Jun,Bolívar,1812
+6,2018,Jun,Boyacá,1608
+6,2018,Jun,Caldas,1577
+6,2018,Jun,Caquetá,217
+6,2018,Jun,Casanare,2624
+6,2018,Jun,Cauca,681
+6,2018,Jun,Cesar,949
+6,2018,Jun,Chocó,139
+6,2018,Jun,Córdoba,736
+6,2018,Jun,Cundinamarca,8705
+6,2018,Jun,Guainía,20
+6,2018,Jun,Guaviare,43
+6,2018,Jun,Huila,1206
+6,2018,Jun,La Guajira,344
+6,2018,Jun,Magdalena,862
+6,2018,Jun,Meta,2870
+6,2018,Jun,Nariño,906
+6,2018,Jun,Norte de Santander,1023
+6,2018,Jun,Putumayo,494
+6,2018,Jun,Quindío,848
+6,2018,Jun,Risaralda,2362
+6,2018,Jun,"Archipiélago de San Andrés, Providencia y Santa Catalina",186
+6,2018,Jun,Santander,4364
+6,2018,Jun,Sucre,338
+6,2018,Jun,Tolima,1581
+6,2018,Jun,Valle del Cauca,9928
+6,2018,Jun,Vaupés,2
+6,2018,Jun,Vichada,17
+7,2018,Jul,Amazonas,92
+7,2018,Jul,Antioquia,20368
+7,2018,Jul,Arauca,342
+7,2018,Jul,Atlántico,4094
+7,2018,Jul,Bogotá D.C.,76649
+7,2018,Jul,Bolívar,1988
+7,2018,Jul,Boyacá,1964
+7,2018,Jul,Caldas,1905
+7,2018,Jul,Caquetá,269
+7,2018,Jul,Casanare,2858
+7,2018,Jul,Cauca,886
+7,2018,Jul,Cesar,1114
+7,2018,Jul,Chocó,187
+7,2018,Jul,Córdoba,722
+7,2018,Jul,Cundinamarca,10485
+7,2018,Jul,Guainía,33
+7,2018,Jul,Guaviare,41
+7,2018,Jul,Huila,1563
+7,2018,Jul,La Guajira,405
+7,2018,Jul,Magdalena,952
+7,2018,Jul,Meta,3320
+7,2018,Jul,Nariño,1071
+7,2018,Jul,Norte de Santander,1307
+7,2018,Jul,Putumayo,578
+7,2018,Jul,Quindío,926
+7,2018,Jul,Risaralda,2691
+7,2018,Jul,"Archipiélago de San Andrés, Providencia y Santa Catalina",175
+7,2018,Jul,Santander,5352
+7,2018,Jul,Sucre,385
+7,2018,Jul,Tolima,1899
+7,2018,Jul,Valle del Cauca,11651
+7,2018,Jul,Vaupés,2
+7,2018,Jul,Vichada,23
+8,2018,Ago,Amazonas,102
+8,2018,Ago,Antioquia,22341
+8,2018,Ago,Arauca,360
+8,2018,Ago,Atlántico,4347
+8,2018,Ago,Bogotá D.C.,81439
+8,2018,Ago,Bolívar,2194
+8,2018,Ago,Boyacá,2129
+8,2018,Ago,Caldas,2053
+8,2018,Ago,Caquetá,349
+8,2018,Ago,Casanare,3249
+8,2018,Ago,Cauca,1021
+8,2018,Ago,Cesar,1275
+8,2018,Ago,Chocó,203
+8,2018,Ago,Córdoba,868
+8,2018,Ago,Cundinamarca,11217
+8,2018,Ago,Guainía,3
+8,2018,Ago,Guaviare,36
+8,2018,Ago,Huila,1591
+8,2018,Ago,La Guajira,443
+8,2018,Ago,Magdalena,1042
+8,2018,Ago,Meta,3612
+8,2018,Ago,Nariño,1052
+8,2018,Ago,Norte de Santander,1368
+8,2018,Ago,Putumayo,577
+8,2018,Ago,Quindío,909
+8,2018,Ago,Risaralda,2942
+8,2018,Ago,"Archipiélago de San Andrés, Providencia y Santa Catalina",255
+8,2018,Ago,Santander,5516
+8,2018,Ago,Sucre,463
+8,2018,Ago,Tolima,1968
+8,2018,Ago,Valle del Cauca,12760
+8,2018,Ago,Vaupés,3
+8,2018,Ago,Vichada,18
+9,2018,Sep,Amazonas,54
+9,2018,Sep,Antioquia,21104
+9,2018,Sep,Arauca,342
+9,2018,Sep,Atlántico,4086
+9,2018,Sep,Bogotá D.C.,80132
+9,2018,Sep,Bolívar,2074
+9,2018,Sep,Boyacá,1971
+9,2018,Sep,Caldas,1794
+9,2018,Sep,Caquetá,289
+9,2018,Sep,Casanare,2646
+9,2018,Sep,Cauca,1006
+9,2018,Sep,Cesar,1129
+9,2018,Sep,Chocó,217
+9,2018,Sep,Córdoba,705
+9,2018,Sep,Cundinamarca,10190
+9,2018,Sep,Guainía,21
+9,2018,Sep,Guaviare,83
+9,2018,Sep,Huila,1464
+9,2018,Sep,La Guajira,339
+9,2018,Sep,Magdalena,809
+9,2018,Sep,Meta,3792
+9,2018,Sep,Nariño,884
+9,2018,Sep,Norte de Santander,1306
+9,2018,Sep,Putumayo,543
+9,2018,Sep,Quindío,787
+9,2018,Sep,Risaralda,2646
+9,2018,Sep,"Archipiélago de San Andrés, Providencia y Santa Catalina",201
+9,2018,Sep,Santander,4838
+9,2018,Sep,Sucre,410
+9,2018,Sep,Tolima,1709
+9,2018,Sep,Valle del Cauca,11328
+9,2018,Sep,Vaupés,14
+9,2018,Sep,Vichada,14
+10,2018,Oct,Amazonas,91
+10,2018,Oct,Antioquia,24481
+10,2018,Oct,Arauca,476
+10,2018,Oct,Atlántico,4593
+10,2018,Oct,Bogotá D.C.,91611
+10,2018,Oct,Bolívar,2248
+10,2018,Oct,Boyacá,2060
+10,2018,Oct,Caldas,1955
+10,2018,Oct,Caquetá,305
+10,2018,Oct,Casanare,2977
+10,2018,Oct,Cauca,1068
+10,2018,Oct,Cesar,1445
+10,2018,Oct,Chocó,173
+10,2018,Oct,Córdoba,1022
+10,2018,Oct,Cundinamarca,12582
+10,2018,Oct,Guainía,19
+10,2018,Oct,Guaviare,56
+10,2018,Oct,Huila,1858
+10,2018,Oct,La Guajira,425
+10,2018,Oct,Magdalena,884
+10,2018,Oct,Meta,4099
+10,2018,Oct,Nariño,1102
+10,2018,Oct,Norte de Santander,1501
+10,2018,Oct,Putumayo,588
+10,2018,Oct,Quindío,930
+10,2018,Oct,Risaralda,2813
+10,2018,Oct,"Archipiélago de San Andrés, Providencia y Santa Catalina",203
+10,2018,Oct,Santander,5932
+10,2018,Oct,Sucre,503
+10,2018,Oct,Tolima,2060
+10,2018,Oct,Valle del Cauca,12576
+10,2018,Oct,Vaupés,10
+10,2018,Oct,Vichada,5
+11,2018,Nov,Amazonas,80
+11,2018,Nov,Antioquia,18687
+11,2018,Nov,Arauca,383
+11,2018,Nov,Atlántico,3678
+11,2018,Nov,Bogotá D.C.,73223
+11,2018,Nov,Bolívar,1748
+11,2018,Nov,Boyacá,1626
+11,2018,Nov,Caldas,1521
+11,2018,Nov,Caquetá,247
+11,2018,Nov,Casanare,2963
+11,2018,Nov,Cauca,929
+11,2018,Nov,Cesar,977
+11,2018,Nov,Chocó,127
+11,2018,Nov,Córdoba,784
+11,2018,Nov,Cundinamarca,10088
+11,2018,Nov,Guainía,26
+11,2018,Nov,Guaviare,61
+11,2018,Nov,Huila,1360
+11,2018,Nov,La Guajira,436
+11,2018,Nov,Magdalena,782
+11,2018,Nov,Meta,3680
+11,2018,Nov,Nariño,877
+11,2018,Nov,Norte de Santander,1081
+11,2018,Nov,Putumayo,613
+11,2018,Nov,Quindío,810
+11,2018,Nov,Risaralda,2335
+11,2018,Nov,"Archipiélago de San Andrés, Providencia y Santa Catalina",173
+11,2018,Nov,Santander,4986
+11,2018,Nov,Sucre,344
+11,2018,Nov,Tolima,1697
+11,2018,Nov,Valle del Cauca,9233
+11,2018,Nov,Vaupés,15
+11,2018,Nov,Vichada,13
+12,2018,Dic,Amazonas,26
+12,2018,Dic,Antioquia,9789
+12,2018,Dic,Arauca,257
+12,2018,Dic,Atlántico,2100
+12,2018,Dic,Bogotá D.C.,38145
+12,2018,Dic,Bolívar,1066
+12,2018,Dic,Boyacá,919
+12,2018,Dic,Caldas,749
+12,2018,Dic,Caquetá,144
+12,2018,Dic,Casanare,2389
+12,2018,Dic,Cauca,466
+12,2018,Dic,Cesar,832
+12,2018,Dic,Chocó,65
+12,2018,Dic,Córdoba,458
+12,2018,Dic,Cundinamarca,5241
+12,2018,Dic,Guainía,6
+12,2018,Dic,Guaviare,27
+12,2018,Dic,Huila,842
+12,2018,Dic,La Guajira,186
+12,2018,Dic,Magdalena,415
+12,2018,Dic,Meta,2314
+12,2018,Dic,Nariño,466
+12,2018,Dic,Norte de Santander,824
+12,2018,Dic,Putumayo,337
+12,2018,Dic,Quindío,444
+12,2018,Dic,Risaralda,1475
+12,2018,Dic,"Archipiélago de San Andrés, Providencia y Santa Catalina",98
+12,2018,Dic,Santander,2960
+12,2018,Dic,Sucre,202
+12,2018,Dic,Tolima,851
+12,2018,Dic,Valle del Cauca,4860
+12,2018,Dic,Vaupés,6
+12,2018,Dic,Vichada,4
+1,2019,Ene,Amazonas,109
+1,2019,Ene,Antioquia,18900
+1,2019,Ene,Arauca,519
+1,2019,Ene,Atlántico,4069
+1,2019,Ene,Bogotá D.C.,68255
+1,2019,Ene,Bolívar,2033
+1,2019,Ene,Boyacá,1732
+1,2019,Ene,Caldas,1458
+1,2019,Ene,Caquetá,195
+1,2019,Ene,Casanare,3122
+1,2019,Ene,Cauca,770
+1,2019,Ene,Cesar,1005
+1,2019,Ene,Chocó,155
+1,2019,Ene,Córdoba,795
+1,2019,Ene,Cundinamarca,9280
+1,2019,Ene,Guainía,7
+1,2019,Ene,Guaviare,33
+1,2019,Ene,Huila,1316
+1,2019,Ene,La Guajira,425
+1,2019,Ene,Magdalena,696
+1,2019,Ene,Meta,3744
+1,2019,Ene,Nariño,840
+1,2019,Ene,Norte de Santander,1436
+1,2019,Ene,Putumayo,436
+1,2019,Ene,Quindío,763
+1,2019,Ene,Risaralda,2616
+1,2019,Ene,"Archipiélago de San Andrés, Providencia y Santa Catalina",194
+1,2019,Ene,Santander,4893
+1,2019,Ene,Sucre,476
+1,2019,Ene,Tolima,1540
+1,2019,Ene,Valle del Cauca,10554
+1,2019,Ene,Vaupés,3
+1,2019,Ene,Vichada,9
+2,2019,Feb,Amazonas,83
+2,2019,Feb,Antioquia,18996
+2,2019,Feb,Arauca,408
+2,2019,Feb,Atlántico,3880
+2,2019,Feb,Bogotá D.C.,68105
+2,2019,Feb,Bolívar,2021
+2,2019,Feb,Boyacá,1750
+2,2019,Feb,Caldas,1469
+2,2019,Feb,Caquetá,272
+2,2019,Feb,Casanare,2768
+2,2019,Feb,Cauca,689
+2,2019,Feb,Cesar,958
+2,2019,Feb,Chocó,179
+2,2019,Feb,Córdoba,847
+2,2019,Feb,Cundinamarca,8966
+2,2019,Feb,Guainía,10
+2,2019,Feb,Guaviare,38
+2,2019,Feb,Huila,1375
+2,2019,Feb,La Guajira,508
+2,2019,Feb,Magdalena,790
+2,2019,Feb,Meta,3611
+2,2019,Feb,Nariño,818
+2,2019,Feb,Norte de Santander,1211
+2,2019,Feb,Putumayo,486
+2,2019,Feb,Quindío,805
+2,2019,Feb,Risaralda,2365
+2,2019,Feb,"Archipiélago de San Andrés, Providencia y Santa Catalina",203
+2,2019,Feb,Santander,4901
+2,2019,Feb,Sucre,390
+2,2019,Feb,Tolima,1616
+2,2019,Feb,Valle del Cauca,10844
+2,2019,Feb,Vaupés,5
+2,2019,Feb,Vichada,26
+3,2019,Mar,Amazonas,80
+3,2019,Mar,Antioquia,20463
+3,2019,Mar,Arauca,465
+3,2019,Mar,Atlántico,4031
+3,2019,Mar,Bogotá D.C.,73697
+3,2019,Mar,Bolívar,2239
+3,2019,Mar,Boyacá,1905
+3,2019,Mar,Caldas,1819
+3,2019,Mar,Caquetá,281
+3,2019,Mar,Casanare,2513
+3,2019,Mar,Cauca,725
+3,2019,Mar,Cesar,1123
+3,2019,Mar,Chocó,185
+3,2019,Mar,Córdoba,870
+3,2019,Mar,Cundinamarca,10417
+3,2019,Mar,Guainía,14
+3,2019,Mar,Guaviare,53
+3,2019,Mar,Huila,1373
+3,2019,Mar,La Guajira,436
+3,2019,Mar,Magdalena,798
+3,2019,Mar,Meta,4033
+3,2019,Mar,Nariño,938
+3,2019,Mar,Norte de Santander,1412
+3,2019,Mar,Putumayo,511
+3,2019,Mar,Quindío,849
+3,2019,Mar,Risaralda,2407
+3,2019,Mar,"Archipiélago de San Andrés, Providencia y Santa Catalina",260
+3,2019,Mar,Santander,5347
+3,2019,Mar,Sucre,491
+3,2019,Mar,Tolima,1721
+3,2019,Mar,Valle del Cauca,11938
+3,2019,Mar,Vaupés,1
+3,2019,Mar,Vichada,26
+4,2019,Abr,Amazonas,75
+4,2019,Abr,Antioquia,16785
+4,2019,Abr,Arauca,291
+4,2019,Abr,Atlántico,3544
+4,2019,Abr,Bogotá D.C.,62665
+4,2019,Abr,Bolívar,1851
+4,2019,Abr,Boyacá,1394
+4,2019,Abr,Caldas,1444
+4,2019,Abr,Caquetá,215
+4,2019,Abr,Casanare,2099
+4,2019,Abr,Cauca,644
+4,2019,Abr,Cesar,1119
+4,2019,Abr,Chocó,116
+4,2019,Abr,Córdoba,670
+4,2019,Abr,Cundinamarca,8705
+4,2019,Abr,Guainía,9
+4,2019,Abr,Guaviare,29
+4,2019,Abr,Huila,1200
+4,2019,Abr,La Guajira,368
+4,2019,Abr,Magdalena,643
+4,2019,Abr,Meta,2965
+4,2019,Abr,Nariño,707
+4,2019,Abr,Norte de Santander,1311
+4,2019,Abr,Putumayo,397
+4,2019,Abr,Quindío,723
+4,2019,Abr,Risaralda,2270
+4,2019,Abr,"Archipiélago de San Andrés, Providencia y Santa Catalina",199
+4,2019,Abr,Santander,4315
+4,2019,Abr,Sucre,408
+4,2019,Abr,Tolima,1425
+4,2019,Abr,Valle del Cauca,9732
+4,2019,Abr,Vaupés,17
+4,2019,Abr,Vichada,27
+5,2019,May,Amazonas,94
+5,2019,May,Antioquia,23732
+5,2019,May,Arauca,340
+5,2019,May,Atlántico,4728
+5,2019,May,Bogotá D.C.,85130
+5,2019,May,Bolívar,2446
+5,2019,May,Boyacá,2015
+5,2019,May,Caldas,1886
+5,2019,May,Caquetá,406
+5,2019,May,Casanare,2699
+5,2019,May,Cauca,912
+5,2019,May,Cesar,2179
+5,2019,May,Chocó,158
+5,2019,May,Córdoba,944
+5,2019,May,Cundinamarca,11736
+5,2019,May,Guainía,12
+5,2019,May,Guaviare,31
+5,2019,May,Huila,1711
+5,2019,May,La Guajira,587
+5,2019,May,Magdalena,1116
+5,2019,May,Meta,4106
+5,2019,May,Nariño,1131
+5,2019,May,Norte de Santander,1641
+5,2019,May,Putumayo,713
+5,2019,May,Quindío,1037
+5,2019,May,Risaralda,3289
+5,2019,May,"Archipiélago de San Andrés, Providencia y Santa Catalina",349
+5,2019,May,Santander,6395
+5,2019,May,Sucre,502
+5,2019,May,Tolima,2293
+5,2019,May,Valle del Cauca,12813
+5,2019,May,Vaupés,28
+5,2019,May,Vichada,27
+6,2019,Jun,Amazonas,53
+6,2019,Jun,Antioquia,19089
+6,2019,Jun,Arauca,345
+6,2019,Jun,Atlántico,3519
+6,2019,Jun,Bogotá D.C.,67420
+6,2019,Jun,Bolívar,1824
+6,2019,Jun,Boyacá,1594
+6,2019,Jun,Caldas,1379
+6,2019,Jun,Caquetá,277
+6,2019,Jun,Casanare,2048
+6,2019,Jun,Cauca,709
+6,2019,Jun,Cesar,1064
+6,2019,Jun,Chocó,102
+6,2019,Jun,Córdoba,654
+6,2019,Jun,Cundinamarca,9131
+6,2019,Jun,Guainía,2
+6,2019,Jun,Guaviare,24
+6,2019,Jun,Huila,1283
+6,2019,Jun,La Guajira,292
+6,2019,Jun,Magdalena,791
+6,2019,Jun,Meta,3357
+6,2019,Jun,Nariño,804
+6,2019,Jun,Norte de Santander,1104
+6,2019,Jun,Putumayo,522
+6,2019,Jun,Quindío,730
+6,2019,Jun,Risaralda,2410
+6,2019,Jun,"Archipiélago de San Andrés, Providencia y Santa Catalina",237
+6,2019,Jun,Santander,4936
+6,2019,Jun,Sucre,485
+6,2019,Jun,Tolima,1476
+6,2019,Jun,Valle del Cauca,10910
+6,2019,Jun,Vaupés,19
+6,2019,Jun,Vichada,25
+7,2019,Jul,Amazonas,69
+7,2019,Jul,Antioquia,21574
+7,2019,Jul,Arauca,391
+7,2019,Jul,Atlántico,3898
+7,2019,Jul,Bogotá D.C.,83909
+7,2019,Jul,Bolívar,2207
+7,2019,Jul,Boyacá,1698
+7,2019,Jul,Caldas,1483
+7,2019,Jul,Caquetá,314
+7,2019,Jul,Casanare,2592
+7,2019,Jul,Cauca,839
+7,2019,Jul,Cesar,1061
+7,2019,Jul,Chocó,139
+7,2019,Jul,Córdoba,656
+7,2019,Jul,Cundinamarca,10812
+7,2019,Jul,Guainía,16
+7,2019,Jul,Guaviare,46
+7,2019,Jul,Huila,1758
+7,2019,Jul,La Guajira,392
+7,2019,Jul,Magdalena,866
+7,2019,Jul,Meta,3699
+7,2019,Jul,Nariño,850
+7,2019,Jul,Norte de Santander,1323
+7,2019,Jul,Putumayo,573
+7,2019,Jul,Quindío,854
+7,2019,Jul,Risaralda,2888
+7,2019,Jul,"Archipiélago de San Andrés, Providencia y Santa Catalina",283
+7,2019,Jul,Santander,5499
+7,2019,Jul,Sucre,513
+7,2019,Jul,Tolima,1722
+7,2019,Jul,Valle del Cauca,12870
+7,2019,Jul,Vaupés,29
+7,2019,Jul,Vichada,24
+8,2019,Ago,Amazonas,67
+8,2019,Ago,Antioquia,22496
+8,2019,Ago,Arauca,378
+8,2019,Ago,Atlántico,4257
+8,2019,Ago,Bogotá D.C.,80951
+8,2019,Ago,Bolívar,2302
+8,2019,Ago,Boyacá,1904
+8,2019,Ago,Caldas,1669
+8,2019,Ago,Caquetá,252
+8,2019,Ago,Casanare,2994
+8,2019,Ago,Cauca,817
+8,2019,Ago,Cesar,1188
+8,2019,Ago,Chocó,136
+8,2019,Ago,Córdoba,847
+8,2019,Ago,Cundinamarca,10813
+8,2019,Ago,Guainía,21
+8,2019,Ago,Guaviare,60
+8,2019,Ago,Huila,1474
+8,2019,Ago,La Guajira,413
+8,2019,Ago,Magdalena,966
+8,2019,Ago,Meta,4167
+8,2019,Ago,Nariño,988
+8,2019,Ago,Norte de Santander,1570
+8,2019,Ago,Putumayo,459
+8,2019,Ago,Quindío,966
+8,2019,Ago,Risaralda,3007
+8,2019,Ago,"Archipiélago de San Andrés, Providencia y Santa Catalina",226
+8,2019,Ago,Santander,6102
+8,2019,Ago,Sucre,438
+8,2019,Ago,Tolima,1870
+8,2019,Ago,Valle del Cauca,12655
+8,2019,Ago,Vaupés,3
+8,2019,Ago,Vichada,13
+9,2019,Sep,Amazonas,71
+9,2019,Sep,Antioquia,25207
+9,2019,Sep,Arauca,428
+9,2019,Sep,Atlántico,4240
+9,2019,Sep,Bogotá D.C.,94783
+9,2019,Sep,Bolívar,2464
+9,2019,Sep,Boyacá,1877
+9,2019,Sep,Caldas,1836
+9,2019,Sep,Caquetá,407
+9,2019,Sep,Casanare,2884
+9,2019,Sep,Cauca,948
+9,2019,Sep,Cesar,1090
+9,2019,Sep,Chocó,142
+9,2019,Sep,Córdoba,840
+9,2019,Sep,Cundinamarca,11059
+9,2019,Sep,Guainía,22
+9,2019,Sep,Guaviare,51
+9,2019,Sep,Huila,1866
+9,2019,Sep,La Guajira,439
+9,2019,Sep,Magdalena,891
+9,2019,Sep,Meta,4094
+9,2019,Sep,Nariño,1066
+9,2019,Sep,Norte de Santander,1683
+9,2019,Sep,Putumayo,678
+9,2019,Sep,Quindío,1053
+9,2019,Sep,Risaralda,3418
+9,2019,Sep,"Archipiélago de San Andrés, Providencia y Santa Catalina",257
+9,2019,Sep,Santander,6576
+9,2019,Sep,Sucre,491
+9,2019,Sep,Tolima,1967
+9,2019,Sep,Valle del Cauca,13842
+9,2019,Sep,Vaupés,13
+9,2019,Sep,Vichada,14
+10,2019,Oct,Amazonas,57
+10,2019,Oct,Antioquia,19985
+10,2019,Oct,Arauca,290
+10,2019,Oct,Atlántico,3303
+10,2019,Oct,Bogotá D.C.,70894
+10,2019,Oct,Bolívar,1843
+10,2019,Oct,Boyacá,1648
+10,2019,Oct,Caldas,1252
+10,2019,Oct,Caquetá,323
+10,2019,Oct,Casanare,2252
+10,2019,Oct,Cauca,716
+10,2019,Oct,Cesar,902
+10,2019,Oct,Chocó,138
+10,2019,Oct,Córdoba,744
+10,2019,Oct,Cundinamarca,8072
+10,2019,Oct,Guainía,30
+10,2019,Oct,Guaviare,29
+10,2019,Oct,Huila,1207
+10,2019,Oct,La Guajira,303
+10,2019,Oct,Magdalena,757
+10,2019,Oct,Meta,3429
+10,2019,Oct,Nariño,790
+10,2019,Oct,Norte de Santander,1199
+10,2019,Oct,Putumayo,489
+10,2019,Oct,Quindío,765
+10,2019,Oct,Risaralda,2602
+10,2019,Oct,"Archipiélago de San Andrés, Providencia y Santa Catalina",204
+10,2019,Oct,Santander,4712
+10,2019,Oct,Sucre,451
+10,2019,Oct,Tolima,1601
+10,2019,Oct,Valle del Cauca,10789
+10,2019,Oct,Vaupés,19
+10,2019,Oct,Vichada,23
+11,2019,Nov,Amazonas,48
+11,2019,Nov,Antioquia,24458
+11,2019,Nov,Arauca,423
+11,2019,Nov,Atlántico,3794
+11,2019,Nov,Bogotá D.C.,85694
+11,2019,Nov,Bolívar,2336
+11,2019,Nov,Boyacá,1976
+11,2019,Nov,Caldas,1905
+11,2019,Nov,Caquetá,349
+11,2019,Nov,Casanare,2207
+11,2019,Nov,Cauca,882
+11,2019,Nov,Cesar,885
+11,2019,Nov,Chocó,182
+11,2019,Nov,Córdoba,723
+11,2019,Nov,Cundinamarca,8949
+11,2019,Nov,Guainía,10
+11,2019,Nov,Guaviare,31
+11,2019,Nov,Huila,1475
+11,2019,Nov,La Guajira,303
+11,2019,Nov,Magdalena,820
+11,2019,Nov,Meta,3663
+11,2019,Nov,Nariño,1182
+11,2019,Nov,Norte de Santander,1334
+11,2019,Nov,Putumayo,494
+11,2019,Nov,Quindío,874
+11,2019,Nov,Risaralda,3114
+11,2019,Nov,"Archipiélago de San Andrés, Providencia y Santa Catalina",226
+11,2019,Nov,Santander,5982
+11,2019,Nov,Sucre,457
+11,2019,Nov,Tolima,1681
+11,2019,Nov,Valle del Cauca,11447
+11,2019,Nov,Vaupés,11
+11,2019,Nov,Vichada,8
+12,2019,Dic,Amazonas,37
+12,2019,Dic,Antioquia,21998
+12,2019,Dic,Arauca,390
+12,2019,Dic,Atlántico,3213
+12,2019,Dic,Bogotá D.C.,77018
+12,2019,Dic,Bolívar,1917
+12,2019,Dic,Boyacá,1448
+12,2019,Dic,Caldas,1420
+12,2019,Dic,Caquetá,315
+12,2019,Dic,Casanare,1881
+12,2019,Dic,Cauca,667
+12,2019,Dic,Cesar,816
+12,2019,Dic,Chocó,99
+12,2019,Dic,Córdoba,646
+12,2019,Dic,Cundinamarca,8254
+12,2019,Dic,Guainía,14
+12,2019,Dic,Guaviare,22
+12,2019,Dic,Huila,1272
+12,2019,Dic,La Guajira,261
+12,2019,Dic,Magdalena,688
+12,2019,Dic,Meta,2977
+12,2019,Dic,Nariño,761
+12,2019,Dic,Norte de Santander,1074
+12,2019,Dic,Putumayo,379
+12,2019,Dic,Quindío,751
+12,2019,Dic,Risaralda,2812
+12,2019,Dic,"Archipiélago de San Andrés, Providencia y Santa Catalina",174
+12,2019,Dic,Santander,4914
+12,2019,Dic,Sucre,318
+12,2019,Dic,Tolima,1542
+12,2019,Dic,Valle del Cauca,9860
+12,2019,Dic,Vaupés,8
+12,2019,Dic,Vichada,19
+1,2020,Ene,Amazonas,108
+1,2020,Ene,Antioquia,23527
+1,2020,Ene,Arauca,638
+1,2020,Ene,Atlántico,4300
+1,2020,Ene,Bogotá D.C.,85351
+1,2020,Ene,Bolívar,2408
+1,2020,Ene,Boyacá,1783
+1,2020,Ene,Caldas,1658
+1,2020,Ene,Caquetá,246
+1,2020,Ene,Casanare,2811
+1,2020,Ene,Cauca,728
+1,2020,Ene,Cesar,990
+1,2020,Ene,Chocó,149
+1,2020,Ene,Córdoba,880
+1,2020,Ene,Cundinamarca,8746
+1,2020,Ene,Guainía,33
+1,2020,Ene,Guaviare,41
+1,2020,Ene,Huila,1483
+1,2020,Ene,La Guajira,361
+1,2020,Ene,Magdalena,701
+1,2020,Ene,Meta,3761
+1,2020,Ene,Nariño,942
+1,2020,Ene,Norte de Santander,1384
+1,2020,Ene,Putumayo,523
+1,2020,Ene,Quindío,791
+1,2020,Ene,Risaralda,3090
+1,2020,Ene,"Archipiélago de San Andrés, Providencia y Santa Catalina",241
+1,2020,Ene,Santander,6342
+1,2020,Ene,Sucre,459
+1,2020,Ene,Tolima,1702
+1,2020,Ene,Valle del Cauca,11880
+1,2020,Ene,Vaupés,9
+1,2020,Ene,Vichada,36
+2,2020,Feb,Amazonas,62
+2,2020,Feb,Antioquia,22774
+2,2020,Feb,Arauca,415
+2,2020,Feb,Atlántico,3878
+2,2020,Feb,Bogotá D.C.,79847
+2,2020,Feb,Bolívar,2354
+2,2020,Feb,Boyacá,1595
+2,2020,Feb,Caldas,1355
+2,2020,Feb,Caquetá,278
+2,2020,Feb,Casanare,2387
+2,2020,Feb,Cauca,735
+2,2020,Feb,Cesar,1034
+2,2020,Feb,Chocó,139
+2,2020,Feb,Córdoba,780
+2,2020,Feb,Cundinamarca,8655
+2,2020,Feb,Guainía,12
+2,2020,Feb,Guaviare,32
+2,2020,Feb,Huila,1467
+2,2020,Feb,La Guajira,352
+2,2020,Feb,Magdalena,741
+2,2020,Feb,Meta,3790
+2,2020,Feb,Nariño,883
+2,2020,Feb,Norte de Santander,1509
+2,2020,Feb,Putumayo,454
+2,2020,Feb,Quindío,794
+2,2020,Feb,Risaralda,3114
+2,2020,Feb,"Archipiélago de San Andrés, Providencia y Santa Catalina",299
+2,2020,Feb,Santander,5937
+2,2020,Feb,Sucre,466
+2,2020,Feb,Tolima,1567
+2,2020,Feb,Valle del Cauca,11046
+2,2020,Feb,Vaupés,15
+2,2020,Feb,Vichada,16
+3,2020,Mar,Amazonas,57
+3,2020,Mar,Antioquia,17545
+3,2020,Mar,Arauca,184
+3,2020,Mar,Atlántico,3151
+3,2020,Mar,Bogotá D.C.,55592
+3,2020,Mar,Bolívar,1648
+3,2020,Mar,Boyacá,1405
+3,2020,Mar,Caldas,1462
+3,2020,Mar,Caquetá,232
+3,2020,Mar,Casanare,1645
+3,2020,Mar,Cauca,491
+3,2020,Mar,Cesar,1005
+3,2020,Mar,Chocó,121
+3,2020,Mar,Córdoba,725
+3,2020,Mar,Cundinamarca,6334
+3,2020,Mar,Guainía,27
+3,2020,Mar,Guaviare,46
+3,2020,Mar,Huila,1095
+3,2020,Mar,La Guajira,348
+3,2020,Mar,Magdalena,672
+3,2020,Mar,Meta,2596
+3,2020,Mar,Nariño,704
+3,2020,Mar,Norte de Santander,1037
+3,2020,Mar,Putumayo,293
+3,2020,Mar,Quindío,706
+3,2020,Mar,Risaralda,2220
+3,2020,Mar,"Archipiélago de San Andrés, Providencia y Santa Catalina",163
+3,2020,Mar,Santander,4351
+3,2020,Mar,Sucre,416
+3,2020,Mar,Tolima,1475
+3,2020,Mar,Valle del Cauca,8505
+3,2020,Mar,Vaupés,19
+3,2020,Mar,Vichada,32
+4,2020,Abr,Amazonas,49
+4,2020,Abr,Antioquia,6151
+4,2020,Abr,Arauca,95
+4,2020,Abr,Atlántico,1585
+4,2020,Abr,Bogotá D.C.,17666
+4,2020,Abr,Bolívar,480
+4,2020,Abr,Boyacá,618
+4,2020,Abr,Caldas,1191
+4,2020,Abr,Caquetá,85
+4,2020,Abr,Casanare,598
+4,2020,Abr,Cauca,299
+4,2020,Abr,Cesar,545
+4,2020,Abr,Chocó,46
+4,2020,Abr,Córdoba,321
+4,2020,Abr,Cundinamarca,2121
+4,2020,Abr,Guainía,7
+4,2020,Abr,Guaviare,18
+4,2020,Abr,Huila,419
+4,2020,Abr,La Guajira,196
+4,2020,Abr,Magdalena,192
+4,2020,Abr,Meta,757
+4,2020,Abr,Nariño,291
+4,2020,Abr,Norte de Santander,311
+4,2020,Abr,Putumayo,103
+4,2020,Abr,Quindío,180
+4,2020,Abr,Risaralda,749
+4,2020,Abr,"Archipiélago de San Andrés, Providencia y Santa Catalina",79
+4,2020,Abr,Santander,1431
+4,2020,Abr,Sucre,104
+4,2020,Abr,Tolima,760
+4,2020,Abr,Valle del Cauca,3297
+4,2020,Abr,Vaupés,2
+4,2020,Abr,Vichada,12
+5,2020,May,Amazonas,42
+5,2020,May,Antioquia,7527
+5,2020,May,Arauca,174
+5,2020,May,Atlántico,2278
+5,2020,May,Bogotá D.C.,22061
+5,2020,May,Bolívar,786
+5,2020,May,Boyacá,862
+5,2020,May,Caldas,1345
+5,2020,May,Caquetá,120
+5,2020,May,Casanare,1056
+5,2020,May,Cauca,357
+5,2020,May,Cesar,563
+5,2020,May,Chocó,63
+5,2020,May,Córdoba,343
+5,2020,May,Cundinamarca,2974
+5,2020,May,Guainía,24
+5,2020,May,Guaviare,64
+5,2020,May,Huila,639
+5,2020,May,La Guajira,252
+5,2020,May,Magdalena,347
+5,2020,May,Meta,1427
+5,2020,May,Nariño,428
+5,2020,May,Norte de Santander,577
+5,2020,May,Putumayo,281
+5,2020,May,Quindío,325
+5,2020,May,Risaralda,1190
+5,2020,May,"Archipiélago de San Andrés, Providencia y Santa Catalina",75
+5,2020,May,Santander,2448
+5,2020,May,Sucre,182
+5,2020,May,Tolima,860
+5,2020,May,Valle del Cauca,4576
+5,2020,May,Vaupés,12
+5,2020,May,Vichada,35
+6,2020,Jun,Amazonas,28
+6,2020,Jun,Antioquia,9499
+6,2020,Jun,Arauca,248
+6,2020,Jun,Atlántico,2217
+6,2020,Jun,Bogotá D.C.,23350
+6,2020,Jun,Bolívar,744
+6,2020,Jun,Boyacá,985
+6,2020,Jun,Caldas,1064
+6,2020,Jun,Caquetá,134
+6,2020,Jun,Casanare,1997
+6,2020,Jun,Cauca,332
+6,2020,Jun,Cesar,654
+6,2020,Jun,Chocó,79
+6,2020,Jun,Córdoba,433
+6,2020,Jun,Cundinamarca,3416
+6,2020,Jun,Guainía,15
+6,2020,Jun,Guaviare,24
+6,2020,Jun,Huila,756
+6,2020,Jun,La Guajira,268
+6,2020,Jun,Magdalena,390
+6,2020,Jun,Meta,1929
+6,2020,Jun,Nariño,390
+6,2020,Jun,Norte de Santander,922
+6,2020,Jun,Putumayo,366
+6,2020,Jun,Quindío,337
+6,2020,Jun,Risaralda,1391
+6,2020,Jun,"Archipiélago de San Andrés, Providencia y Santa Catalina",57
+6,2020,Jun,Santander,2793
+6,2020,Jun,Sucre,307
+6,2020,Jun,Tolima,993
+6,2020,Jun,Valle del Cauca,4888
+6,2020,Jun,Vaupés,6
+6,2020,Jun,Vichada,24
+7,2020,Jul,Amazonas,92
+7,2020,Jul,Antioquia,13706
+7,2020,Jul,Arauca,325
+7,2020,Jul,Atlántico,2438
+7,2020,Jul,Bogotá D.C.,32617
+7,2020,Jul,Bolívar,971
+7,2020,Jul,Boyacá,1216
+7,2020,Jul,Caldas,984
+7,2020,Jul,Caquetá,149
+7,2020,Jul,Casanare,2180
+7,2020,Jul,Cauca,592
+7,2020,Jul,Cesar,890
+7,2020,Jul,Chocó,122
+7,2020,Jul,Córdoba,761
+7,2020,Jul,Cundinamarca,4854
+7,2020,Jul,Guainía,27
+7,2020,Jul,Guaviare,39
+7,2020,Jul,Huila,957
+7,2020,Jul,La Guajira,317
+7,2020,Jul,Magdalena,629
+7,2020,Jul,Meta,2335
+7,2020,Jul,Nariño,572
+7,2020,Jul,Norte de Santander,1046
+7,2020,Jul,Putumayo,443
+7,2020,Jul,Quindío,690
+7,2020,Jul,Risaralda,2390
+7,2020,Jul,"Archipiélago de San Andrés, Providencia y Santa Catalina",82
+7,2020,Jul,Santander,4022
+7,2020,Jul,Sucre,404
+7,2020,Jul,Tolima,1284
+7,2020,Jul,Valle del Cauca,6661
+7,2020,Jul,Vaupés,16
+7,2020,Jul,Vichada,46
+8,2020,Ago,Amazonas,74
+8,2020,Ago,Antioquia,13324
+8,2020,Ago,Arauca,283
+8,2020,Ago,Atlántico,2621
+8,2020,Ago,Bogotá D.C.,30143
+8,2020,Ago,Bolívar,1008
+8,2020,Ago,Boyacá,1204
+8,2020,Ago,Caldas,802
+8,2020,Ago,Caquetá,162
+8,2020,Ago,Casanare,1843
+8,2020,Ago,Cauca,569
+8,2020,Ago,Cesar,838
+8,2020,Ago,Chocó,78
+8,2020,Ago,Córdoba,649
+8,2020,Ago,Cundinamarca,4745
+8,2020,Ago,Guainía,24
+8,2020,Ago,Guaviare,30
+8,2020,Ago,Huila,916
+8,2020,Ago,La Guajira,334
+8,2020,Ago,Magdalena,497
+8,2020,Ago,Meta,2408
+8,2020,Ago,Nariño,622
+8,2020,Ago,Norte de Santander,984
+8,2020,Ago,Putumayo,549
+8,2020,Ago,Quindío,513
+8,2020,Ago,Risaralda,1916
+8,2020,Ago,"Archipiélago de San Andrés, Providencia y Santa Catalina",74
+8,2020,Ago,Santander,3753
+8,2020,Ago,Sucre,327
+8,2020,Ago,Tolima,1003
+8,2020,Ago,Valle del Cauca,6396
+8,2020,Ago,Vaupés,17
+8,2020,Ago,Vichada,37
+9,2020,Sep,Amazonas,85
+9,2020,Sep,Antioquia,18179
+9,2020,Sep,Arauca,428
+9,2020,Sep,Atlántico,2900
+9,2020,Sep,Bogotá D.C.,40687
+9,2020,Sep,Bolívar,1085
+9,2020,Sep,Boyacá,1600
+9,2020,Sep,Caldas,1191
+9,2020,Sep,Caquetá,220
+9,2020,Sep,Casanare,2003
+9,2020,Sep,Cauca,662
+9,2020,Sep,Cesar,989
+9,2020,Sep,Chocó,102
+9,2020,Sep,Córdoba,809
+9,2020,Sep,Cundinamarca,6585
+9,2020,Sep,Guainía,23
+9,2020,Sep,Guaviare,23
+9,2020,Sep,Huila,1217
+9,2020,Sep,La Guajira,288
+9,2020,Sep,Magdalena,651
+9,2020,Sep,Meta,3039
+9,2020,Sep,Nariño,820
+9,2020,Sep,Norte de Santander,1152
+9,2020,Sep,Putumayo,540
+9,2020,Sep,Quindío,800
+9,2020,Sep,Risaralda,2212
+9,2020,Sep,"Archipiélago de San Andrés, Providencia y Santa Catalina",115
+9,2020,Sep,Santander,4911
+9,2020,Sep,Sucre,335
+9,2020,Sep,Tolima,1354
+9,2020,Sep,Valle del Cauca,8298
+9,2020,Sep,Vaupés,16
+9,2020,Sep,Vichada,16
+10,2020,Oct,Amazonas,72
+10,2020,Oct,Antioquia,21299
+10,2020,Oct,Arauca,375
+10,2020,Oct,Atlántico,3369
+10,2020,Oct,Bogotá D.C.,45740
+10,2020,Oct,Bolívar,1436
+10,2020,Oct,Boyacá,1500
+10,2020,Oct,Caldas,1353
+10,2020,Oct,Caquetá,250
+10,2020,Oct,Casanare,2040
+10,2020,Oct,Cauca,698
+10,2020,Oct,Cesar,928
+10,2020,Oct,Chocó,117
+10,2020,Oct,Córdoba,881
+10,2020,Oct,Cundinamarca,6822
+10,2020,Oct,Guainía,16
+10,2020,Oct,Guaviare,56
+10,2020,Oct,Huila,1439
+10,2020,Oct,La Guajira,362
+10,2020,Oct,Magdalena,654
+10,2020,Oct,Meta,3404
+10,2020,Oct,Nariño,950
+10,2020,Oct,Norte de Santander,1398
+10,2020,Oct,Putumayo,809
+10,2020,Oct,Quindío,901
+10,2020,Oct,Risaralda,3002
+10,2020,Oct,"Archipiélago de San Andrés, Providencia y Santa Catalina",131
+10,2020,Oct,Santander,5655
+10,2020,Oct,Sucre,462
+10,2020,Oct,Tolima,1577
+10,2020,Oct,Valle del Cauca,8965
+10,2020,Oct,Vaupés,14
+10,2020,Oct,Vichada,18
