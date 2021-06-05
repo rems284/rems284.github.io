@@ -626,4 +626,7 @@ app.clientside_callback(
     Input('clientside-figure-store-px8', 'data')
 )
 if __name__ == "__main__":
-    app.run_server(port=8888)
+    app.run(host='0.0.0.0',port=8888)
+            
+            
+            
